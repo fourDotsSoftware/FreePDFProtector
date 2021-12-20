@@ -1,0 +1,1632 @@
+﻿<Mappings><Entry OldName="PdfEncrypter.ArgsHelper.FromWindowsExplorer" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.cf789cd4321500291968b66d61c98a4b3" />
+<Entry OldName="PdfEncrypter.CustomForm.LoadComplete" NewName="PdfEncrypter.CustomForm.cad82bf34be66ba292688602c41c555c3" />
+<Entry OldName="PdfEncrypter.CustomForm.tooltip" NewName="PdfEncrypter.CustomForm.c0e974192788f742296714060e5445ad4" />
+<Entry OldName="PdfEncrypter.CustomForm.components" NewName="PdfEncrypter.CustomForm.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.ce2ab74c6dba3a09a7e28baeba977459e" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.Category" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.c3f03403c71033b52e71ad683ea160458" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.App" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.cdb010837eb6a2638a9657721baf9f6ec" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.Url" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.c62582a5e9e0a136c4055d2e86416d645" />
+<Entry OldName="PdfEncrypter.EncryptHelper.Title" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.ce619213aeb0765c78ca020c763e1552b" />
+<Entry OldName="PdfEncrypter.EncryptHelper.Author" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c4eaf3a9ff991c5a6e8bf71b71dd2ddca" />
+<Entry OldName="PdfEncrypter.EncryptHelper.Subject" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c55b43489bbfed241b4636fa49062c700" />
+<Entry OldName="PdfEncrypter.EncryptHelper.Keywords" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c1b59e7479bcd395e97b43ce098fb9ab1" />
+<Entry OldName="PdfEncrypter.EncryptHelper.CreationDate" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c1c2b107a8208ee5f7d9c1d24d5c036da" />
+<Entry OldName="PdfEncrypter.EncryptHelper.ModificationDate" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.cad305778c8032e5b35db71ed8f01807b" />
+<Entry OldName="PdfEncrypter.EncryptHelper.Creator" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c7708516bec71a791b8b84d1b4f4d521b" />
+<Entry OldName="PdfEncrypter.EncryptHelper.SetDocInfo" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c5ccefc1f10585ed9a6e7271673dff698" />
+<Entry OldName="PdfEncrypter.EncryptHelper.DefaultPassword" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c89367dd84279cb38b92cf359e29fd952" />
+<Entry OldName="PdfEncrypter.EncryptHelper.CANCELLED" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c253928fcdda00201cf5716e9c2f76022" />
+<Entry OldName="PdfEncrypter.frmAbout.components" NewName="PdfEncrypter.frmAbout.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmAbout.lblAbout" NewName="PdfEncrypter.frmAbout.c0f1fe4dc73db6c52d7f758f29a6a37d3" />
+<Entry OldName="PdfEncrypter.frmAbout.btnClose" NewName="PdfEncrypter.frmAbout.c594cf872a263c99e860ef590160d3bf9" />
+<Entry OldName="PdfEncrypter.frmAbout.pictureBox1" NewName="PdfEncrypter.frmAbout.cebd71da98e4e27fa1ec8d46d1a0d8ce7" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.components" NewName="PdfEncrypter.frmDocumentInfo.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.btnExit" NewName="PdfEncrypter.frmDocumentInfo.c1966f3d853f27134e70590065d8403af" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.btnOK" NewName="PdfEncrypter.frmDocumentInfo.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate._DownloadFile" NewName="PdfEncrypter.frmDownloadUpdate.cad85f987ad70921a538f2be87903d22a" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.components" NewName="PdfEncrypter.frmDownloadUpdate.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.pgBar" NewName="PdfEncrypter.frmDownloadUpdate.c4cf9d5efc2254a62f679b14f4b826461" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.btnCancelDownload" NewName="PdfEncrypter.frmDownloadUpdate.c3e0f708e14530db30a428eb5d2b41bb6" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.bwDownload" NewName="PdfEncrypter.frmDownloadUpdate.c9ecbd5e7189d30fd551c763d72918c93" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.label1" NewName="PdfEncrypter.frmDownloadUpdate.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.lblTotalSize" NewName="PdfEncrypter.frmDownloadUpdate.c79636e98601cf7fd09e988ba1eb71d49" />
+<Entry OldName="PdfEncrypter.frmImportCSV.components" NewName="PdfEncrypter.frmImportCSV.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label4" NewName="PdfEncrypter.frmImportCSV.c0c99075b3f423b04980da32339e382b2" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label6" NewName="PdfEncrypter.frmImportCSV.cc26b125acda5e5a858cfab902c78f73b" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label1" NewName="PdfEncrypter.frmImportCSV.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnCancel" NewName="PdfEncrypter.frmImportCSV.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnOK" NewName="PdfEncrypter.frmImportCSV.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnBrowse" NewName="PdfEncrypter.frmImportCSV.c4caff26f733a1d4a25ef0c95c1e9886d" />
+<Entry OldName="PdfEncrypter.frmImportCSV.openFileDialog1" NewName="PdfEncrypter.frmImportCSV.c9491a5263cbf56600bb36a28b84bd939" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label2" NewName="PdfEncrypter.frmImportCSV.c1aeea19c6b3702d2819126676ecb964d" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label3" NewName="PdfEncrypter.frmImportCSV.ca4cfb3ad39b956d7f8ad01baa63a7f5a" />
+<Entry OldName="PdfEncrypter.frmImportCSV.lblColumnOutput" NewName="PdfEncrypter.frmImportCSV.c90acdeece6bfdc819695bda1f80a3df0" />
+<Entry OldName="PdfEncrypter.frmImportCSV.label5" NewName="PdfEncrypter.frmImportCSV.c093b6ec6b05c1cd2984475a01999fd5a" />
+<Entry OldName="PdfEncrypter.frmLanguage.components" NewName="PdfEncrypter.frmLanguage.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmLanguage.label1" NewName="PdfEncrypter.frmLanguage.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmLanguage.cmbLanguage" NewName="PdfEncrypter.frmLanguage.c19d5e03095c2b35267d388e6f01a8857" />
+<Entry OldName="PdfEncrypter.frmLanguage.btnOK" NewName="PdfEncrypter.frmLanguage.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmMain.Err" NewName="PdfEncrypter.frmMain.c37c8429050c96bce8964e1db7711eed0" />
+<Entry OldName="PdfEncrypter.frmMain.cmbOutputDirStr" NewName="PdfEncrypter.frmMain.c413770c640de47dc6a6dc90c6ca84117" />
+<Entry OldName="PdfEncrypter.frmMain.IsDragging" NewName="PdfEncrypter.frmMain.c499d39d649a54f44f569563de7b675f8" />
+<Entry OldName="PdfEncrypter.frmMain.components" NewName="PdfEncrypter.frmMain.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmMain.menuStrip1" NewName="PdfEncrypter.frmMain.cab37dd59596781b3e057a299632e4f03" />
+<Entry OldName="PdfEncrypter.frmMain.fileToolStripMenuItem" NewName="PdfEncrypter.frmMain.c4a231cba159c366aef53b21cde5fa1e0" />
+<Entry OldName="PdfEncrypter.frmMain.exitToolStripMenuItem" NewName="PdfEncrypter.frmMain.c0f4ae4b65e8baa21d4c80ec74d1ee7d4" />
+<Entry OldName="PdfEncrypter.frmMain.helpToolStripMenuItem" NewName="PdfEncrypter.frmMain.c7b876ef3158a772671b1b27eb072135d" />
+<Entry OldName="PdfEncrypter.frmMain.helpGuideToolStripMenuItem" NewName="PdfEncrypter.frmMain.c75ee80adbcb443f6332f006128ac30f2" />
+<Entry OldName="PdfEncrypter.frmMain.aboutToolStripMenuItem" NewName="PdfEncrypter.frmMain.cc822cc367ba2bfda6a5dd6fe6fe70f5e" />
+<Entry OldName="PdfEncrypter.frmMain.openFileDialog1" NewName="PdfEncrypter.frmMain.c9491a5263cbf56600bb36a28b84bd939" />
+<Entry OldName="PdfEncrypter.frmMain.saveFileDialog1" NewName="PdfEncrypter.frmMain.cb0d8bb65faad70cc7c3dce130c934c10" />
+<Entry OldName="PdfEncrypter.frmMain.folderBrowserDialog1" NewName="PdfEncrypter.frmMain.c0c90aa5afc63fd9c8db0c965d9d4ceff" />
+<Entry OldName="PdfEncrypter.frmMain.tiHelpFeedback" NewName="PdfEncrypter.frmMain.cb5ac7bc5f2eccc329a9267bc43dc10dd" />
+<Entry OldName="PdfEncrypter.frmMain.contextMenuStrip1" NewName="PdfEncrypter.frmMain.cc29aee1571f735de2f1c422d64b2ac3e" />
+<Entry OldName="PdfEncrypter.frmMain.openToolStripMenuItem" NewName="PdfEncrypter.frmMain.c290fefdd79ac18932200677cb708a352" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripMenuItem1" NewName="PdfEncrypter.frmMain.c460a08412d048668f54d86c04a705e63" />
+<Entry OldName="PdfEncrypter.frmMain.dgFiles" NewName="PdfEncrypter.frmMain.c47c3de39926c0ea93ce656ef752aacd3" />
+<Entry OldName="PdfEncrypter.frmMain.downloadToolStripMenuItem" NewName="PdfEncrypter.frmMain.c2ce4b257e2b2d26b7874479bf134c731" />
+<Entry OldName="PdfEncrypter.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="PdfEncrypter.frmMain.c3e923af83115a2f23d8e5068ccfe8784" />
+<Entry OldName="PdfEncrypter.frmMain.languageToolStripMenuItem" NewName="PdfEncrypter.frmMain.cfb9a846dc635813ae5daddf295696883" />
+<Entry OldName="PdfEncrypter.frmMain.btnOpenFolder" NewName="PdfEncrypter.frmMain.cc19f7a3f1f4f326771b028e639c06fd8" />
+<Entry OldName="PdfEncrypter.frmMain.btnChangeFolder" NewName="PdfEncrypter.frmMain.c8731379f0e1b9dcce23018cb9bc26a63" />
+<Entry OldName="PdfEncrypter.frmMain.folderBrowserDialog2" NewName="PdfEncrypter.frmMain.ca3a7d268f9d7b97362145b31e31971b5" />
+<Entry OldName="PdfEncrypter.frmMain.groupBox1" NewName="PdfEncrypter.frmMain.c2def0aefbb095a6c77420ce062baec2b" />
+<Entry OldName="PdfEncrypter.frmMain.groupBox2" NewName="PdfEncrypter.frmMain.c82a41c283cb403cd1c28be0093881165" />
+<Entry OldName="PdfEncrypter.frmMain.groupBox3" NewName="PdfEncrypter.frmMain.c0dae6defec63129ed0ab4e5eccc79156" />
+<Entry OldName="PdfEncrypter.frmMain.groupBox4" NewName="PdfEncrypter.frmMain.ce2a3b0d1b997191cd7ba92bf0c1780fd" />
+<Entry OldName="PdfEncrypter.frmMain.label2" NewName="PdfEncrypter.frmMain.c1aeea19c6b3702d2819126676ecb964d" />
+<Entry OldName="PdfEncrypter.frmMain.label1" NewName="PdfEncrypter.frmMain.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmMain.toolStrip1" NewName="PdfEncrypter.frmMain.cf655b5993f885eba2c6899d78eaef2f0" />
+<Entry OldName="PdfEncrypter.frmMain.tsbRemove" NewName="PdfEncrypter.frmMain.c6b9e8367add2b37ac6d3e97308dff67a" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripSeparator1" NewName="PdfEncrypter.frmMain.cee8ba6657a0f700b90ac1222e16ca30e" />
+<Entry OldName="PdfEncrypter.frmMain.tsbProtect" NewName="PdfEncrypter.frmMain.cc52b1b0e5fd469d29b02e9f7a1a25ed6" />
+<Entry OldName="PdfEncrypter.frmMain.tsbDocumentInfo" NewName="PdfEncrypter.frmMain.ca38033e3a3b653e92cb51986ed870c95" />
+<Entry OldName="PdfEncrypter.frmMain.toolTip1" NewName="PdfEncrypter.frmMain.c3e23659b55609fdcea8d8265dba6ae01" />
+<Entry OldName="PdfEncrypter.frmMain.exploreToolStripMenuItem" NewName="PdfEncrypter.frmMain.c18f36051e130fa715d2b66b0a1f46ebc" />
+<Entry OldName="PdfEncrypter.frmMain.removeToolStripMenuItem" NewName="PdfEncrypter.frmMain.cd8620965f7b904ec928a43d4509bef54" />
+<Entry OldName="PdfEncrypter.frmMain.followUsOnTwitterToolStripMenuItem" NewName="PdfEncrypter.frmMain.c5b5df519925d6eb19eba3548b8bf4b26" />
+<Entry OldName="PdfEncrypter.frmMain.chkShowPasswords" NewName="PdfEncrypter.frmMain.c44434ea2beb363c306e64c2e3aee9ab9" />
+<Entry OldName="PdfEncrypter.frmMain.tsbShare" NewName="PdfEncrypter.frmMain.c140ebb64a5006d974b37f83b7ee57d32" />
+<Entry OldName="PdfEncrypter.frmMain.tsiFacebook" NewName="PdfEncrypter.frmMain.cafedac491d891e38cfa12e9c0a5fd967" />
+<Entry OldName="PdfEncrypter.frmMain.tsiTwitter" NewName="PdfEncrypter.frmMain.ce9f663e3186a58261fa457c9a307c6cf" />
+<Entry OldName="PdfEncrypter.frmMain.tsiGooglePlus" NewName="PdfEncrypter.frmMain.c3672f77548922e7a90bbaeebd111ac18" />
+<Entry OldName="PdfEncrypter.frmMain.tsiLinkedIn" NewName="PdfEncrypter.frmMain.c8110fe21d08a1b0e8b20e9af72eb4366" />
+<Entry OldName="PdfEncrypter.frmMain.tsiEmail" NewName="PdfEncrypter.frmMain.c15002b39be8e98635b681da061597857" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripSeparator2" NewName="PdfEncrypter.frmMain.c8b246f5d8bc567083816a33c49c9bc9f" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripSeparator3" NewName="PdfEncrypter.frmMain.c9573f933d8c12db06d3dc3dc701fa8f3" />
+<Entry OldName="PdfEncrypter.frmMain.pleaseDonateToolStripMenuItem1" NewName="PdfEncrypter.frmMain.c47d5147348e53d1f5e8517a56d5013dc" />
+<Entry OldName="PdfEncrypter.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="PdfEncrypter.frmMain.c56ffae6db8a58474c5330dab6be94cbb" />
+<Entry OldName="PdfEncrypter.frmMain.checkForNewVersionToolStripMenuItem" NewName="PdfEncrypter.frmMain.c8f4c4acd9291c588fd3818829e1e4706" />
+<Entry OldName="PdfEncrypter.frmMain.optionsToolStripMenuItem" NewName="PdfEncrypter.frmMain.c153397b8504341e816859d6ee4003ee4" />
+<Entry OldName="PdfEncrypter.frmMain.keepFolderStructureToolStripMenuItem" NewName="PdfEncrypter.frmMain.c390a557300b2c31896fa6d4884b7f011" />
+<Entry OldName="PdfEncrypter.frmMain.btnSelectAll" NewName="PdfEncrypter.frmMain.c77ce394236c12be140119957823740ca" />
+<Entry OldName="PdfEncrypter.frmMain.btnUnselectAll" NewName="PdfEncrypter.frmMain.cda606ea51d5dd08977ab68e564ea0f48" />
+<Entry OldName="PdfEncrypter.frmMain.btnInvertSelection" NewName="PdfEncrypter.frmMain.c462da4716f874089d24be37a2e5f8c9c" />
+<Entry OldName="PdfEncrypter.frmMain.luminatiSettingsToolStripMenuItem" NewName="PdfEncrypter.frmMain.ccf86f99d1d01549cdde2ad900ebd3d76" />
+<Entry OldName="PdfEncrypter.frmMain.chkOverwritePasswords" NewName="PdfEncrypter.frmMain.cfbecc205b8ed21f8ae56933eb21b2c76" />
+<Entry OldName="PdfEncrypter.frmMain.btnSetForAllOwnerPassword" NewName="PdfEncrypter.frmMain.c6e6d2ea8eb9434b3d9568cf8bed81b0d" />
+<Entry OldName="PdfEncrypter.frmMain.btnSetForAllUserPassword" NewName="PdfEncrypter.frmMain.c26be93e1f968a5679ab6e22a43e97dc3" />
+<Entry OldName="PdfEncrypter.frmMain.colFilename" NewName="PdfEncrypter.frmMain.c969bc86189125ef943155f6faed0224f" />
+<Entry OldName="PdfEncrypter.frmMain.colUserPassword" NewName="PdfEncrypter.frmMain.c76bd65257a85fc0654cb5b11b9cb079e" />
+<Entry OldName="PdfEncrypter.frmMain.colNewUserPassword" NewName="PdfEncrypter.frmMain.c70ad28f1f70c7f85443ad173f2bbdbeb" />
+<Entry OldName="PdfEncrypter.frmMain.colNewOwnerPassword" NewName="PdfEncrypter.frmMain.c4230a3a4729431e0ac62a3df5237d1c2" />
+<Entry OldName="PdfEncrypter.frmMain.colSize" NewName="PdfEncrypter.frmMain.ccaeb6dc060d2fd7b6a900d842ed3596a" />
+<Entry OldName="PdfEncrypter.frmMain.colFileDate" NewName="PdfEncrypter.frmMain.ce7907c12bdc18484110ab23735788e74" />
+<Entry OldName="PdfEncrypter.frmMain.colFullFilePath" NewName="PdfEncrypter.frmMain.cc4e99f3c7308937ed5e1506198a3caab" />
+<Entry OldName="PdfEncrypter.frmMain.editToolStripMenuItem" NewName="PdfEncrypter.frmMain.c2090b690a81f5797149032705b8d2095" />
+<Entry OldName="PdfEncrypter.frmMain.removeToolStripMenuItem1" NewName="PdfEncrypter.frmMain.c5c22eac9bd80b807977c3202fe61b3ad" />
+<Entry OldName="PdfEncrypter.frmMain.clearToolStripMenuItem" NewName="PdfEncrypter.frmMain.c3c3064c7dc13aeb665a70ee1ab8c58f6" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripMenuItem2" NewName="PdfEncrypter.frmMain.cbd007dc840e8ad8664e1a10534904960" />
+<Entry OldName="PdfEncrypter.frmMain.selectAllToolStripMenuItem" NewName="PdfEncrypter.frmMain.c0236fb42890a46d2bd6e694e0e2a08c9" />
+<Entry OldName="PdfEncrypter.frmMain.selectNoneToolStripMenuItem" NewName="PdfEncrypter.frmMain.c7aa9f5de018a2fb31d0e4fd54f0fdb51" />
+<Entry OldName="PdfEncrypter.frmMain.invertSelectionToolStripMenuItem" NewName="PdfEncrypter.frmMain.c909d25b569486dbdf2b941fda947599b" />
+<Entry OldName="PdfEncrypter.frmMain.youtubeChannelToolStripMenuItem" NewName="PdfEncrypter.frmMain.cba19261d282512f5f69d634c8f97ba61" />
+<Entry OldName="PdfEncrypter.frmMain.addFile9sToolStripMenuItem" NewName="PdfEncrypter.frmMain.c01cfc252ef487ad2a3f8a2cfed263263" />
+<Entry OldName="PdfEncrypter.frmMain.addFolderToolStripMenuItem" NewName="PdfEncrypter.frmMain.c33975d63de3062813b35a0768288d449" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripMenuItem3" NewName="PdfEncrypter.frmMain.c6482a22de62f766dfd923cf7a9f0ef31" />
+<Entry OldName="PdfEncrypter.frmMain.importListFromTextFileToolStripMenuItem" NewName="PdfEncrypter.frmMain.c00cce8125936ba124c9198d5cebfe901" />
+<Entry OldName="PdfEncrypter.frmMain.importListFromCSVFileToolStripMenuItem" NewName="PdfEncrypter.frmMain.c5ea79de20d5d9cc238ea025e08191435" />
+<Entry OldName="PdfEncrypter.frmMain.importListFromExcelFileToolStripMenuItem" NewName="PdfEncrypter.frmMain.cdeb17713885893ab521cc44c41c19449" />
+<Entry OldName="PdfEncrypter.frmMain.saveCurrentFileListToolStripMenuItem" NewName="PdfEncrypter.frmMain.c417078fa1f954abfc6dfa9a664d64fff" />
+<Entry OldName="PdfEncrypter.frmMain.toolStripMenuItem4" NewName="PdfEncrypter.frmMain.ca95ea0eb2cedd2d6f46146b22658da55" />
+<Entry OldName="PdfEncrypter.frmMain.enterFileListToolStripMenuItem" NewName="PdfEncrypter.frmMain.cee2fbd1806166830b1db03950f92e6ea" />
+<Entry OldName="PdfEncrypter.frmMain.toolsToolStripMenuItem" NewName="PdfEncrypter.frmMain.cc8500b7258fd26004a7b5d9e9d0ded2a" />
+<Entry OldName="PdfEncrypter.frmMain.protectToolStripMenuItem" NewName="PdfEncrypter.frmMain.c9962649383419cbdc5acba85e81c5435" />
+<Entry OldName="PdfEncrypter.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="PdfEncrypter.frmMain.cf06c276868e7df9eaf9e8045c85c79c2" />
+<Entry OldName="PdfEncrypter.frmMain.exploreOutputFolderWhenDoneToolStripMenuItem" NewName="PdfEncrypter.frmMain.cd3f1a57e94c179f6d609048cb931429b" />
+<Entry OldName="PdfEncrypter.frmMain.keepCreationDateToolStripMenuItem" NewName="PdfEncrypter.frmMain.cdd7ae2b4ba4b9735dd6fcd7ed7ac6e52" />
+<Entry OldName="PdfEncrypter.frmMain.keepLastModificationDateToolStripMenuItem" NewName="PdfEncrypter.frmMain.cc848040e07c052967344f1f84d1ff0f5" />
+<Entry OldName="PdfEncrypter.frmMain.showMessageOnSucessToolStripMenuItem" NewName="PdfEncrypter.frmMain.c3e0f505dbb00ddc1fdce5233712b9c96" />
+<Entry OldName="PdfEncrypter.frmMain.tsbClear" NewName="PdfEncrypter.frmMain.c8b01b8a203f7724623b0142d6e828c78" />
+<Entry OldName="PdfEncrypter.frmMain.tryAlsoOnlineVersionAtOnlinepdfappscomToolStripMenuItem" NewName="PdfEncrypter.frmMain.cc06726f72ebf53f87fae458508e2d22f" />
+<Entry OldName="PdfEncrypter.frmMain.commandLineArgumentsToolStripMenuItem" NewName="PdfEncrypter.frmMain.c877e8fdcc026576e084471cdd02ff70d" />
+<Entry OldName="PdfEncrypter.frmMessage.ForCommandLineArgs" NewName="PdfEncrypter.frmMessage.c16e413e00f8b7b017f49b70034c19a9f" />
+<Entry OldName="PdfEncrypter.frmMessage.components" NewName="PdfEncrypter.frmMessage.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmMessage.btnOK" NewName="PdfEncrypter.frmMessage.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmMessage.btnCopy" NewName="PdfEncrypter.frmMessage.cba5786cf0b1366ca6f9bd8924b013476" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.BatchJoin" NewName="PdfEncrypter.frmMultipleFiles.cdbc04a689b84f1303e66b69f083d7891" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.components" NewName="PdfEncrypter.frmMultipleFiles.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.lblBatchJoin" NewName="PdfEncrypter.frmMultipleFiles.c3730b97d7e92a5e7ec136fca3c6cd044" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnCancel" NewName="PdfEncrypter.frmMultipleFiles.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnOK" NewName="PdfEncrypter.frmMultipleFiles.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.label2" NewName="PdfEncrypter.frmMultipleFiles.c1aeea19c6b3702d2819126676ecb964d" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnBrowse" NewName="PdfEncrypter.frmMultipleFiles.c4caff26f733a1d4a25ef0c95c1e9886d" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.openFileDialog1" NewName="PdfEncrypter.frmMultipleFiles.c9491a5263cbf56600bb36a28b84bd939" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.components" NewName="PdfEncrypter.frmOutputSubFolder.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.btnOK" NewName="PdfEncrypter.frmOutputSubFolder.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.btnCancel" NewName="PdfEncrypter.frmOutputSubFolder.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.label1" NewName="PdfEncrypter.frmOutputSubFolder.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmPassword.InputFile" NewName="PdfEncrypter.frmPassword.cc6850624843019b5024fc8864cd15e09" />
+<Entry OldName="PdfEncrypter.frmPassword.components" NewName="PdfEncrypter.frmPassword.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmPassword.btnOK" NewName="PdfEncrypter.frmPassword.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmPassword.label1" NewName="PdfEncrypter.frmPassword.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmPassword.btnCancel" NewName="PdfEncrypter.frmPassword.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmProgress.components" NewName="PdfEncrypter.frmProgress.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmProgress.progressBar1" NewName="PdfEncrypter.frmProgress.ce46752073b63b8a7ce571cd156148626" />
+<Entry OldName="PdfEncrypter.frmProgress.label1" NewName="PdfEncrypter.frmProgress.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmProgress.lblTime" NewName="PdfEncrypter.frmProgress.cae0e8f4bb9c93c79a8757341daf6484e" />
+<Entry OldName="PdfEncrypter.frmProgress.btnCancel" NewName="PdfEncrypter.frmProgress.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmPromotion.components" NewName="PdfEncrypter.frmPromotion.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmPromotion.label1" NewName="PdfEncrypter.frmPromotion.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmPromotion.lnkPromotion" NewName="PdfEncrypter.frmPromotion.cbdb6c3963b86c67423c24cc6a10b0613" />
+<Entry OldName="PdfEncrypter.frmPromotion.picPromotion" NewName="PdfEncrypter.frmPromotion.c564d21bcf4f9b16de0d12d4040188026" />
+<Entry OldName="PdfEncrypter.frmPromotion.btnOK" NewName="PdfEncrypter.frmPromotion.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmSettings.InitialChoice" NewName="PdfEncrypter.frmSettings.cd7ce67353924aee1cc457207d8ae59f5" />
+<Entry OldName="PdfEncrypter.frmSettings.components" NewName="PdfEncrypter.frmSettings.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmSettings.btnOK" NewName="PdfEncrypter.frmSettings.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmSettings.btnCancel" NewName="PdfEncrypter.frmSettings.cc3514173e76dbe62586da51f0a4ab3d0" />
+<Entry OldName="PdfEncrypter.frmSettings.chkAllowSharing" NewName="PdfEncrypter.frmSettings.c5528ccc97b4c36dcade490b64634f097" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.OnUninstall" NewName="PdfEncrypter.frmUninstallQuestionnaire.c9771bbf39bb7b52d4bff0c3782e6713a" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.components" NewName="PdfEncrypter.frmUninstallQuestionnaire.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.label1" NewName="PdfEncrypter.frmUninstallQuestionnaire.c48554cd049f9de0e8d9114ee806cd15b" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.label2" NewName="PdfEncrypter.frmUninstallQuestionnaire.c1aeea19c6b3702d2819126676ecb964d" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.label3" NewName="PdfEncrypter.frmUninstallQuestionnaire.ca4cfb3ad39b956d7f8ad01baa63a7f5a" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.btnOK" NewName="PdfEncrypter.frmUninstallQuestionnaire.cd68d9d0e6ca2c0123b516d59bd0f921c" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.btnExit" NewName="PdfEncrypter.frmUninstallQuestionnaire.c1966f3d853f27134e70590065d8403af" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.txtLike" NewName="PdfEncrypter.frmUninstallQuestionnaire.c07f541e18081b013e8efbe9019a3a42b" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.txtBuy" NewName="PdfEncrypter.frmUninstallQuestionnaire.c8cb8172e72b2cb692518ae695b4acfc4" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.label4" NewName="PdfEncrypter.frmUninstallQuestionnaire.c0c99075b3f423b04980da32339e382b2" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.txtEmail" NewName="PdfEncrypter.frmUninstallQuestionnaire.cd15e920f60c382090caebd8eb431b28a" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.txtOpinion" NewName="PdfEncrypter.frmUninstallQuestionnaire.c4274ad6043393c9ec83cd813c454c458" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.label5" NewName="PdfEncrypter.frmUninstallQuestionnaire.c093b6ec6b05c1cd2984475a01999fd5a" />
+<Entry OldName="PdfEncrypter.ImageComboBox.imageList" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a.cc6ec28f6ed0388067f4835c054db51b3" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem._text" NewName="A.c5443255f996b823bbfd0df53d8d698ce.cf0c19c71e0710777027f7e0fdd1580ad" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem._imageIndex" NewName="A.c5443255f996b823bbfd0df53d8d698ce.ce1437eb4740d674a54ca27980959592f" />
+<Entry OldName="PdfEncrypter.Module.ApplicationTitle" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c3f4ae3fff98335016fb9d499b8d00878" />
+<Entry OldName="PdfEncrypter.Module.ShortApplicationTitle" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c343ba945bcbfa25c2d5c65628dabdf30" />
+<Entry OldName="PdfEncrypter.Module.DownloadURL" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c4f95fd41d543da4dc0c8d99a58217d62" />
+<Entry OldName="PdfEncrypter.Module.HelpURL" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c57c58488e03968bf4e118fa182a94406" />
+<Entry OldName="PdfEncrypter.Module.LangURL" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c82c9931f29b3eda2d5d94383520412fc" />
+<Entry OldName="PdfEncrypter.Module.VersionURL" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c5cd4e835929359e76b2b227a5e7588cd" />
+<Entry OldName="PdfEncrypter.Module.StoreUrl" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cfc8a15c5917190540ecaaeb357466783" />
+<Entry OldName="PdfEncrypter.Module.SelectedLanguage" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cbb1bc99df8279549219dfc5c6ae40775" />
+<Entry OldName="PdfEncrypter.Module.args" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c809601f1f3b331a1b9833d9a4fb62ed9" />
+<Entry OldName="PdfEncrypter.Module.IsCommandLine" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c72d94966ed4974b43f5c1ed63d65a429" />
+<Entry OldName="PdfEncrypter.Module.IsFromWindowsExplorer" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c1924beaed478775a33dbc4e8695f691c" />
+<Entry OldName="PdfEncrypter.Module.Cmdnewuserpassword" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c41fa0fc5a0d96f6e217aee566fdc49e3" />
+<Entry OldName="PdfEncrypter.Module.Cmdnewownerpassword" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cf6328a107d1b9602f724dfd0b2a32200" />
+<Entry OldName="PdfEncrypter.Module.Cmdenc128" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cbfb1d3c25a1380a869cb0ea8c28d52b5" />
+<Entry OldName="PdfEncrypter.Module.Cmdenc40" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.ced1ecfd81b66d4bf5a2ebb7c71c5820a" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_COPYING" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c3c2f8112cca87c595ce849ab1213abab" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_MODIFYING" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c288ac98195d9e0837015cc450b4e8ef1" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_FORM_FILL" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c8bd16b3d120cbc02c5d3495d4bad7c11" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_SCREEN_READERS" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c4064e3eede745869d484e06bf1f39535" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_HIRES_PRINTING" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c98a0826c5cfcd2389f3ef2b82a772561" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_LOWRES_PRINTING" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c5060bc62b344a0e02fda2e76fe3b417d" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_DOC_ASSEMBLY" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c1116ffbe01af40419cf7535034b8f340" />
+<Entry OldName="PdfEncrypter.Module.CmdDISALLOW_ANOTATIONS" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c86c8037e48929254bb27f069f41f7fe4" />
+<Entry OldName="PdfEncrypter.Module.CmdUserPassword" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c6fb707aecd0fa1d8c1712f0c0e9ac6a1" />
+<Entry OldName="PdfEncrypter.Module.Cmdauthor" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c4e4761d65252bc2146bc92e738f5e8fd" />
+<Entry OldName="PdfEncrypter.Module.Cmdcreator" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cd7642fac3788233a7708305ac5b39809" />
+<Entry OldName="PdfEncrypter.Module.Cmdkeywords" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.ce6f45ff97147922191e6fd5eeb069587" />
+<Entry OldName="PdfEncrypter.Module.Cmdtitle" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cffda5dc44bcf41d3c33c93fc8cee1d99" />
+<Entry OldName="PdfEncrypter.Module.Cmdsubject" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c8e05bd62805e650d9a270906646999ac" />
+<Entry OldName="PdfEncrypter.Module.CmdcreationDate" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c341db99100312ba26e18ec24ad61d840" />
+<Entry OldName="PdfEncrypter.Module.CmdmodificationDate" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cdf783e5841901eb7e2e6b11ec562a1b8" />
+<Entry OldName="PdfEncrypter.Module.CmdOverwritePDF" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cbde34709f34505df259a29ea6d7ff5a1" />
+<Entry OldName="PdfEncrypter.Module.CmdKeepBackup" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cb2d45bab112062a3c826be6b5bda48a1" />
+<Entry OldName="PdfEncrypter.Module.CmdOutputFile" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cfc4d8cf711961ff6e5954f3e1a99cce3" />
+<Entry OldName="PdfEncrypter.Module.CmdLogFile" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c74fafb15605bf873faadeb6cd1fdb80b" />
+<Entry OldName="PdfEncrypter.Module.CmdImportListFile" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c07c64fda48c572dc01e05c12b5965366" />
+<Entry OldName="PdfEncrypter.Module.CmdLogFileWriter" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c43682d404fdc09505527e01d6658e0f7" />
+<Entry OldName="PdfEncrypter.Module.CmdAddSubdirectories" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c58185e2972399103750387b2fd4eef14" />
+<Entry OldName="PdfEncrypter.Module.CmdOutputFolder" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c0b08f0b2557a30d4ae38beef695ca38c" />
+<Entry OldName="PdfEncrypter.Module.UserDocumentsFolder" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c17ad8b33375005696cf4bb9d428dc1c5" />
+<Entry OldName="PdfEncrypter.Module.CmdFiles" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c1432dc1616c057a2bde5e99f63ddbfd2" />
+<Entry OldName="PdfEncrypter.Module.SelectedFilepaths" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c6980596e67ec6a7fa4c663b9d8b6d53f" />
+<Entry OldName="PdfEncrypter.Module.SelectedOperations" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c14918921fed1abf511b4aec2ecaf90a2" />
+<Entry OldName="PdfEncrypter.Module.SelectedParameters" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c0b196c832403b0c90ba5a0cb70d59954" />
+<Entry OldName="PdfEncrypter.Module.PresetFile" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.caed2a066b9ec2cd4a25b6119f2c8fc7e" />
+<Entry OldName="PdfEncrypter.Module.ImageFilter" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c556f32111c9cd3c16c0ba1eda27e7b2c" />
+<Entry OldName="PdfEncrypter.Module.ImageFilterForSave" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cff0b64497c2ff2d0c743ff8ba9dbaaca" />
+<Entry OldName="PdfEncrypter.Module.DialogFilesFilter" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c87d3df9f88d6989931728f0862f1ca45" />
+<Entry OldName="PdfEncrypter.Module.ImagePattern" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c96ab5efc5cd8acf924c20747ce1c7a2d" />
+<Entry OldName="PdfEncrypter.Module.DoNotOverwriteFiles" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cdf96f5f26d51d0cbaf8a75a8edee6da9" />
+<Entry OldName="PdfEncrypter.Module.AskBeforeOverwrite" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c64675cb4aeb4be09137f45000faceefe" />
+<Entry OldName="PdfEncrypter.Module.LeaveSameDateTime" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cf59b5a4ff955c53dcfd4585b66c2d5e8" />
+<Entry OldName="PdfEncrypter.Module._Modex64" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c1114549aa807b07703190a06b06607e5" />
+<Entry OldName="PdfEncrypter.NiceLine.components" NewName="PdfEncrypter.NiceLine.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.NiceLine._Caption" NewName="PdfEncrypter.NiceLine.c75f086e7112f9a2ca34053e1416f9f97" />
+<Entry OldName="PdfEncrypter.NiceLine._CaptionMarginSpace" NewName="PdfEncrypter.NiceLine.ce849f34287ec35425c6d48d412f61e93" />
+<Entry OldName="PdfEncrypter.NiceLine._CaptionPadding" NewName="PdfEncrypter.NiceLine.cf60b832ac71558a2eae77871392f156d" />
+<Entry OldName="PdfEncrypter.NiceLine._LineVerticalAlign" NewName="PdfEncrypter.NiceLine.c7a2ca96f014aeba9e2bef1849d132a2f" />
+<Entry OldName="PdfEncrypter.NiceLine._CaptionOrizontalAlign" NewName="PdfEncrypter.NiceLine.c28ed7b70e8892dcb6887ba3359eb6ba9" />
+<Entry OldName="PdfEncrypter.Program.ATTACH_PARENT_PROCESS" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c9acf505169bc1fbdf6ffb8cacafdafc0" />
+<Entry OldName="PdfEncrypter.Program.ERROR_ACCESS_DENIED" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c4321ecb612b9f1add52ce227522bebf3" />
+<Entry OldName="PdfEncrypter.StringDecrypter.message" NewName="PdfEncrypter.StringDecrypter.c574e0b40370e003e7f855795ccdb99dd" />
+<Entry OldName="PdfEncrypter.StringDecrypter.passphrase" NewName="PdfEncrypter.StringDecrypter.ca6f592ed49f531be7fbe6293d399fc82" />
+<Entry OldName="PdfEncrypter.StringEncrypter.message" NewName="PdfEncrypter.StringEncrypter.c574e0b40370e003e7f855795ccdb99dd" />
+<Entry OldName="PdfEncrypter.StringEncrypter.passphrase" NewName="PdfEncrypter.StringEncrypter.ca6f592ed49f531be7fbe6293d399fc82" />
+<Entry OldName="PdfEncrypter.ucTextProgressBar.WmPaint" NewName="PdfEncrypter.ucTextProgressBar.ca7decb3a54f2ea27eb126c5d376c3f3d" />
+<Entry OldName="PdfEncrypter.ucTextProgressBar.components" NewName="PdfEncrypter.ucTextProgressBar.c38cc98d9a55f4ab8bffb2e32f993ec2e" />
+<Entry OldName="PdfEncrypter.UpdateHelper.bwCheckVersion" NewName="PdfEncrypter.UpdateHelper.c0b19c723a446fe3b36adf5071faa6a65" />
+<Entry OldName="PdfEncrypter.ResFlags.resourceMan" NewName="A.c5217f02f6e4ddcf438363c4add618df4.c2ce7c71ad4818be2a6284c0ef6e71f01" />
+<Entry OldName="PdfEncrypter.ResFlags.resourceCulture" NewName="A.c5217f02f6e4ddcf438363c4add618df4.c64eee764d25883df1a93be757dee5985" />
+<Entry OldName="PdfEncrypter.ResTranslate.resourceMan" NewName="A.c12646d46762c702739a778bded01f5df.c2ce7c71ad4818be2a6284c0ef6e71f01" />
+<Entry OldName="PdfEncrypter.ResTranslate.resourceCulture" NewName="A.c12646d46762c702739a778bded01f5df.c64eee764d25883df1a93be757dee5985" />
+<Entry OldName="PdfEncrypter.TranslateHelper.rm" NewName="A.cc3f0b477b85c0e8b8302a04c4aba1bf7.c103882a7cbbd0b86720d075a4adadc2d" />
+<Entry OldName="PdfEncrypter.Properties.Resources.resourceMan" NewName="A.c1516e0504890398a0c81c6d2c92624a0.c2ce7c71ad4818be2a6284c0ef6e71f01" />
+<Entry OldName="PdfEncrypter.Properties.Resources.resourceCulture" NewName="A.c1516e0504890398a0c81c6d2c92624a0.c64eee764d25883df1a93be757dee5985" />
+<Entry OldName="PdfEncrypter.ArgsHelper..ctor()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570..ctor()" />
+<Entry OldName="PdfEncrypter.ArgsHelper..cctor()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570..cctor()" />
+<Entry OldName="PdfEncrypter.ArgsHelper.ExamineArgs(String[] args)" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c1599ca688b8cee1aaa6e295c6005cd7f(String[] c809601f1f3b331a1b9833d9a4fb62ed9)" />
+<Entry OldName="PdfEncrypter.ArgsHelper.GetParameter(String arg)" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c9a662cd35b189e99aeac9b97ff3f853d(String c6a6d170a7447546236b3d1c4450fdfdf)" />
+<Entry OldName="PdfEncrypter.ArgsHelper.SplitArguments(String commandLine)" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c55f1b0e0bc31a6ab93c882c867082b37(String c300cbcb86e17d77162e36972882653c1)" />
+<Entry OldName="PdfEncrypter.ArgsHelper.ShowCommandUsage()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c464d4e76c081f29287289c355478477c()" />
+<Entry OldName="PdfEncrypter.ArgsHelper.GetCommandUsage()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c322596db2836c5bab281215c2f72db1c()" />
+<Entry OldName="PdfEncrypter.ArgsHelper.get_IsFromWindowsExplorer()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.get_c1924beaed478775a33dbc4e8695f691c()" />
+<Entry OldName="PdfEncrypter.ArgsHelper.get_IsFromCommandLine()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.get_cdc3c7f06636c7e466d7c09da79c4e8de()" />
+<Entry OldName="PdfEncrypter.ArgsHelper.ExecuteCommandLine()" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570.c37d1fc07ea223c37bea804100d43437d()" />
+<Entry OldName="PdfEncrypter.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="PdfEncrypter.CustomForm.c789b2f021983d22dc504d51572abd6aa(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.CustomForm.ResizeChildControls(Control co)" NewName="PdfEncrypter.CustomForm.cf963a40aeef0627efc1b20a0800ba290(Control c8b3df83e11b38348248f78b7f9a6d8a1)" />
+<Entry OldName="PdfEncrypter.CustomForm.InitializeComponent()" NewName="PdfEncrypter.CustomForm.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper..ctor()" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db..ctor()" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.c2468fb54ead6222e4b7755cbe5ca3274(ToolStripMenuItem c001ec27c96dada45b8fc2397214b9069)" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db.cd61a2786cc60b30f09ff38ea80c3a295(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.EncryptHelper..ctor()" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992..ctor()" />
+<Entry OldName="PdfEncrypter.EncryptHelper..cctor()" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992..cctor()" />
+<Entry OldName="PdfEncrypter.EncryptHelper.EncryptMultiplePDF(DataTable dt, String sCmbOutputDir, EncryptArgs encryptargs, DocArgs docargs)" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.cd5c81d3d73227ae8547a674bfd7a7047(DataTable cb718088d64d21a9f0f8a32618b6a5b9c, String ccfccc6b0e62784a376a12089977e9521, EncryptArgs c8fc91a1df2662ffad5bf45e1e42f0798, DocArgs c81f70b7a4df694390dc9bd607c267d88)" />
+<Entry OldName="PdfEncrypter.EncryptHelper.EncryptMultiplePDFCmd(DataTable dt)" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.ce1a19be7aa451be60ff6133e92d8c7a1(DataTable cb718088d64d21a9f0f8a32618b6a5b9c)" />
+<Entry OldName="PdfEncrypter.EncryptHelper.EncryptSinglePDF(String InputFile, String OutputFile, String Password, String NewUserPassword, String NewOwnerPassword, EncryptArgs encryptargs, DocArgs docargs)" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c36c31338d26bc56e4537db5bd0af35d0(String cc6850624843019b5024fc8864cd15e09, String c6becb9ba235a603e8fbb4ebf77bea09f, String c07767cea3e74dc0bd13a1b39d68d04ce, String c75241e2c2787d8e3f1f9acd6b43dbe2e, String c81a2fbdd4a65e05efdf9a4710a4ad211, EncryptArgs c8fc91a1df2662ffad5bf45e1e42f0798, DocArgs c81f70b7a4df694390dc9bd607c267d88)" />
+<Entry OldName="PdfEncrypter.EncryptHelper.EncryptSinglePDFCmd(String InputFile, String OutputFile, String Password)" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992.c31840862a88c86fbd23d786542e24e96(String cc6850624843019b5024fc8864cd15e09, String c6becb9ba235a603e8fbb4ebf77bea09f, String c07767cea3e74dc0bd13a1b39d68d04ce)" />
+<Entry OldName="PdfEncrypter.ExcelImporter..ctor()" NewName="A.cb81c6ef86eaadfd41c632b36595f6a85..ctor()" />
+<Entry OldName="PdfEncrypter.ExcelImporter.ImportListExcel(String filepath)" NewName="A.cb81c6ef86eaadfd41c632b36595f6a85.c3de10962a8222d81f64ed7d3dd82bd71(String ce39db600fdc3a05272c8ac7e86c82f10)" />
+<Entry OldName="PdfEncrypter.ExcelImporter.GetPart(String part)" NewName="A.cb81c6ef86eaadfd41c632b36595f6a85.c6fb20f467f78916032bf484a4dcfd4cd(String cda50963b0f470b6d188c8adb82331f98)" />
+<Entry OldName="PdfEncrypter.ExceptionHandlersHelper..ctor()" NewName="A.c6a2d1fd1f7e4e66f53ce84ee6139f015..ctor()" />
+<Entry OldName="PdfEncrypter.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c6a2d1fd1f7e4e66f53ce84ee6139f015.c508a0de66c21137449b14e0cd9fdb202()" />
+<Entry OldName="PdfEncrypter.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c6a2d1fd1f7e4e66f53ce84ee6139f015.c107f70381b664854ed363f6fbffdf2e0(Object c771eea9e2e340fc2955407e1c5951aa6, UnhandledExceptionEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c6a2d1fd1f7e4e66f53ce84ee6139f015.c1e2146c6a4adc25de5b871a7a0976fc1(Object c771eea9e2e340fc2955407e1c5951aa6, ThreadExceptionEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmAbout.caded62a0689005e1fd1fdad7ff28e8c1(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmAbout.cc58d2d4e0f3e199b83b3c9da232cf371(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmAbout.lblAdeia_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmAbout.cf6498fd06bcb9d1d21a31ca34bf76277(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmAbout.InitializeComponent()" NewName="PdfEncrypter.frmAbout.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.btnExit_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c7ec51e12de78f4dc469b95a97b6cf4cc(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.frmDocumentInfo_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.ca4b06c5c61dad4cd885c0da89fffc65d(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkTitle_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c10c63f098237cf8cabc202ea1bddd2ff(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkAuthor_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c25c29415854d7a75e03f0503b883f69b(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkSubject_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c3abc604ad794dc2f563aaeb4310121db(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkKeywords_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c2757a4923aa68ea81b2c4128f78189be(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkCreator_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.cafd2673a68ff13064bab66b575f23444(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkCreationDate_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.ce96ef7aa18819764f3e635bcb19da947(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.chkModificationDate_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDocumentInfo.c1bc51ec7e13fb33cbe37eb09bfa7ccce(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDocumentInfo.InitializeComponent()" NewName="PdfEncrypter.frmDocumentInfo.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDownloadUpdate.c8bca540631262da56fd6306c228b4b2c(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="PdfEncrypter.frmDownloadUpdate.c11fa61ffe100ff8de00d2808d8169dc7(Object c771eea9e2e340fc2955407e1c5951aa6, AsyncCompletedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="PdfEncrypter.frmDownloadUpdate.cdbf15b00352196b663871efaa1f23bb1(Object c771eea9e2e340fc2955407e1c5951aa6, DownloadProgressChangedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmDownloadUpdate.cfafb8f33c2cfd2c7f6347db6fef3ab1f(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmDownloadUpdate.InitializeComponent()" NewName="PdfEncrypter.frmDownloadUpdate.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmImportCSV.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmImportCSV.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmImportCSV.btnBrowse_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmImportCSV.cae126c9aa30023ac551e4957c6840529(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmImportCSV.frmImportCSV_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmImportCSV.cd90fce2680e17d9c44e135cea2814052(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmImportCSV.cmbDelimiter_SelectedIndexChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmImportCSV.c46f958dd56baebf3204f02a72b129fb5(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmImportCSV.GetSelectedDelimiter()" NewName="PdfEncrypter.frmImportCSV.cd9d7fc4661c3c37630ad3ed493b00ee0()" />
+<Entry OldName="PdfEncrypter.frmImportCSV.InitializeComponent()" NewName="PdfEncrypter.frmImportCSV.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmLanguage.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmLanguage.c2fc5c9c4d2af6b6f41d61544af226b50(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmLanguage.InitializeComponent()" NewName="PdfEncrypter.frmLanguage.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmMain.button1_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cb6a1ff51de9df96a91e45acc1e80dcc9(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.AddVisual(String[] argsvisual)" NewName="PdfEncrypter.frmMain.ce020474cb61dd3d74e555976676119fa(String[] ccee243fe2cd52c55d619b409ea81fe6d)" />
+<Entry OldName="PdfEncrypter.frmMain.SetupOutputFolders()" NewName="PdfEncrypter.frmMain.cfe97be2b6b7c3f95c0b79016e268346d()" />
+<Entry OldName="PdfEncrypter.frmMain.SetupOnLoad()" NewName="PdfEncrypter.frmMain.cdfd3d6f3b807dc0b70163540833d38f2()" />
+<Entry OldName="PdfEncrypter.frmMain.EnableDisableForm(Boolean enable)" NewName="PdfEncrypter.frmMain.cbe80784ad8b12130386dc6b5a340f8c5(Boolean c1f4eeafc0b57570f587de4fe690e9f7c)" />
+<Entry OldName="PdfEncrypter.frmMain.AdjustSizeLocation()" NewName="PdfEncrypter.frmMain.c6a3d38de04f34f491102fe78b928f876()" />
+<Entry OldName="PdfEncrypter.frmMain.SaveSizeLocation()" NewName="PdfEncrypter.frmMain.c498763d4f891d6383862c15b0049185c()" />
+<Entry OldName="PdfEncrypter.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cd1fad4ab0f6b064a0238cb3565a6676b(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.AddLanguageMenuItems()" NewName="PdfEncrypter.frmMain.c7d6b22b11b6ba8f6e8b0c21b8b29d5ed()" />
+<Entry OldName="PdfEncrypter.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c4e749ef2369ea20522cac5dd2fe726f8(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.ChangeLanguage(String language_code)" NewName="PdfEncrypter.frmMain.cc0cccb1946e7865bfc2a06058345f510(String c45664e93509c90c1740cf7a00568f6cb)" />
+<Entry OldName="PdfEncrypter.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c1b44cbb2df001d2241c270d84d11ac74(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c0afb80b720d8409d9808ceee24880dac(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnAddFiles_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c226c784726b102953a7973bd6b10d99e(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnAddFolder_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c90dff059912ebe863acd7ea2059f63c5(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnRemoveFile_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c6abd69854df385cf2d6be8c511da0049(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cfe4573e074cc2ec1d9e2b9b3e415d33f(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cd04ef863df05e89354968ef2f2071899(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.buyNowToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cd191a6896b7b70504fe09f26edb6e993(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c2446bc559d0c63495e636a572eeebf7e(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnClearMerge_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c25306204e433dc97bc881d7e80e00399(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.HasEmptyOwnerPassword()" NewName="PdfEncrypter.frmMain.c489e7ffee95359c6bd1bda22f1ed5bfa()" />
+<Entry OldName="PdfEncrypter.frmMain.HasEmptyPasswords()" NewName="PdfEncrypter.frmMain.c6503a0ff1e0b939dfc511ae88f24878a()" />
+<Entry OldName="PdfEncrypter.frmMain.btnEncrypt_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cf9d839de9334be9d9e441d9f2f551c56(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.ce764fad331b51e6bd34940149f65502a(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="PdfEncrypter.frmMain.c6af4172221d9a162241b727f9b2a24d0(Object c771eea9e2e340fc2955407e1c5951aa6, DragEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="PdfEncrypter.frmMain.c743ed71c046ef406956e24e7c28f1cf3(Object c771eea9e2e340fc2955407e1c5951aa6, DragEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="PdfEncrypter.frmMain.c60dff3faedb58007124bfeebf9a0ed68(Object c771eea9e2e340fc2955407e1c5951aa6, DragEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cb71e673388c794f0a86fab6f4b5d3048(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnOpenFolder_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cafa2c2f2d5e9f8f4e5fdaa570a4bd3c8(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnChangeFolder_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c4bb62f9ed62bf130e133dc2a69d8a91f(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.backgroundWorker1_DoWork(Object sender, DoWorkEventArgs e)" NewName="PdfEncrypter.frmMain.cf2e5ba24a6780c96a000b388c0ed8e64(Object c771eea9e2e340fc2955407e1c5951aa6, DoWorkEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnDocumentInfo_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c433b4f536a14ba58e415cd7d3e5bc4fe(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="PdfEncrypter.frmMain.cac9997f8fa6658b9d99ae417b221fb2f(Object c771eea9e2e340fc2955407e1c5951aa6, FormClosingEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.cmbOutputDir_SelectedIndexChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cc81631beaac45aea5c6aacf193c72877(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c1560895d6f0976ad3461354667331d4d(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.contextMenuStrip1_Opening(Object sender, CancelEventArgs e)" NewName="PdfEncrypter.frmMain.cd96fbfb58441b7b7fc9c0e3313d1847e(Object c771eea9e2e340fc2955407e1c5951aa6, CancelEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c5b0d0860c733d457261444a2134b7415(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.chkShowPasswords_CheckedChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c9f2873838a7615e73421472ecaf24718(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsiFacebook_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cf6c80be63835520662dff91067285b8c(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsiTwitter_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c2aa3beb2ef08efbd08868cb66b96343c(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsiGooglePlus_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cc338162ba2a10a7a815bfe4e16e181dd(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsiLinkedIn_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c8af7b290379190128b9c72166b027dd2(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsiEmail_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cdcfe2d1f832e47e5dd2ef0977b1bd986(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbAddFile_ButtonClick(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c1a4a0cfce064bf3bd5d583a33065c578(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbAddFile_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="PdfEncrypter.frmMain.c53cf6874e7a9d15c6be6e7dde52842bb(Object c771eea9e2e340fc2955407e1c5951aa6, ToolStripItemClickedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbAddFolder_ButtonClick(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c76f1dc1c892c27eee4be8e3ab6e49e67(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="PdfEncrypter.frmMain.c63552a0bc3274b13f23ed3b2a5aba28d(Object c771eea9e2e340fc2955407e1c5951aa6, ToolStripItemClickedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c1757e9eaf4ebe6d5286ff2a264a056db(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="PdfEncrypter.frmMain.c8bfba1ae78fa1fb2392d374ac379fb98(Object c771eea9e2e340fc2955407e1c5951aa6, ToolStripItemClickedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c75d77f8d980a48cf0e90b45dcf767998(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c63fd701a643e0d0aa5b6ba3ff32de6de(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c4968e76e41d0431e411473ceee09750a(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.keepFolderStructureToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c7ecc77f0d79f58e0640b748a1703b1c2(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnSelectAll_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c5a8bc359d20a9d194dca4a0684ea916d(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnUnselectAll_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.ced2f6a1aba894e6f14a69342677595c5(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnInvertSelection_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.ca58168656a2a376207b88ecfb9570ecb(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.luminatiSettingsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.ce690b10d5c9305f23467164a5d29df42(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnSetForAllUserPassword_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cb630db04dd16f2ea40081195e316f9ca(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.btnSetForAllOwnerPassword_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c4751e1af3048722d6b711dd012566c04(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.selectAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cb6b1fe4907b7767a7c0b86a5b732c33e(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.selectNoneToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c65225049dba4f12cf32334e8f28f0bd6(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.invertSelectionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c4ee07ecfef6c14f1d8a5b8c01d84c8fc(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.youtubeChannelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c8ca7f967a82c5dda9957a73b0ef2363d(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.enterFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c5728128adb901c6086d20acac8e06267(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.saveCurrentFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cea443dcd2338ddd7d7db6211afc4cdf4(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.importListFromExcelFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c41b799c40f290cc8306e0afb13e2af10(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.importListFromCSVFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.cf4e4bea9a05c3c6ab469cae1c1a97cd9(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.tryAlsoOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c8669575cdf737169b5be511593aa2092(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.commandLineArgumentsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMain.c8c7ba8e6beee9734dc31ccd70f4b9df3(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMain.InitializeComponent()" NewName="PdfEncrypter.frmMain.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMessage.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMessage.cd9d3c764db3cf1090d8b004714d1e2e4(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMessage.btnCopy_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMessage.c73c51d37b49b5d10ea46e3480c4953b2(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMessage.InitializeComponent()" NewName="PdfEncrypter.frmMessage.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMultipleFiles.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMultipleFiles.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.frmMultipleFiles_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMultipleFiles.cbfdc56e55e6fe6eac581b17bf027b34d(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.frmMultipleFiles_Activated(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMultipleFiles.c256eaac401b7c8de1c5ac39fee3188db(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.btnBrowse_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmMultipleFiles.cae126c9aa30023ac551e4957c6840529(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmMultipleFiles.InitializeComponent()" NewName="PdfEncrypter.frmMultipleFiles.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmOutputSubFolder.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmOutputSubFolder.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.frmOutputSubFolder_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmOutputSubFolder.cbb361fe6ba6c2369e59baae10393eea9(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmOutputSubFolder.InitializeComponent()" NewName="PdfEncrypter.frmOutputSubFolder.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmPassword.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPassword.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmPassword.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPassword.frmPassword_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmPassword.ce41b694df81ee4457934ce026872b232(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPassword.InitializeComponent()" NewName="PdfEncrypter.frmPassword.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmProgress.timTime_Tick(Object sender, EventArgs e)" NewName="PdfEncrypter.frmProgress.c3fc29dd3e291ccd2222e135017fb6269(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmProgress.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmProgress.InitializeComponent()" NewName="PdfEncrypter.frmProgress.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmPromotion.picPromotion_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmPromotion.cf2e1c6c86e95580293786aff2d9279c6(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPromotion.VisitWebpage()" NewName="PdfEncrypter.frmPromotion.cf61db9c467d6cf808158fb36c68f63c5()" />
+<Entry OldName="PdfEncrypter.frmPromotion.lnkPromotion_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="PdfEncrypter.frmPromotion.c419c2935339e7e14587a78916ccc443b(Object c771eea9e2e340fc2955407e1c5951aa6, LinkLabelLinkClickedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPromotion.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmPromotion.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmPromotion.InitializeComponent()" NewName="PdfEncrypter.frmPromotion.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmSettings.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmSettings.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmSettings.frmSettings_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmSettings.c553ca41c9d4eff2be985a609ea6e3ef8(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmSettings.btnCancel_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmSettings.ca14b44155de8fa22f266fcf327c63122(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmSettings.InitializeComponent()" NewName="PdfEncrypter.frmSettings.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmUninstallQuestionnaire.c7ec51e12de78f4dc469b95a97b6cf4cc(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="PdfEncrypter.frmUninstallQuestionnaire.c77a0182cbc9ee11c09ae0b37dc7d4f66(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="PdfEncrypter.frmUninstallQuestionnaire.c0e00c28052e80908d9bf52b083cd9f8a(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="PdfEncrypter.frmUninstallQuestionnaire.cd6cc272527f0db007f0858c3eaf2a82a(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.frmUninstallQuestionnaire.InitializeComponent()" NewName="PdfEncrypter.frmUninstallQuestionnaire.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.ImageComboBox..ctor()" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a..ctor()" />
+<Entry OldName="PdfEncrypter.ImageComboBox.get_ImageList()" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a.get_cd0f0f6e38e5747f36f48fe485e935a95()" />
+<Entry OldName="PdfEncrypter.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a.set_cd0f0f6e38e5747f36f48fe485e935a95(ImageList c4f81bd929584ee73e2bdd2ed0319b6d5)" />
+<Entry OldName="PdfEncrypter.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem..ctor()" NewName="A.c5443255f996b823bbfd0df53d8d698ce..ctor()" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem..ctor(String text)" NewName="A.c5443255f996b823bbfd0df53d8d698ce..ctor(String cf164dc331be0126ed50abc3081e414e9)" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c5443255f996b823bbfd0df53d8d698ce..ctor(String cf164dc331be0126ed50abc3081e414e9, Int32 c1957a0c15a7c8a57db52ac68825462ce)" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem.get_Text()" NewName="A.c5443255f996b823bbfd0df53d8d698ce.get_c8b9510665a8c716d4991d0b6f3af7a9f()" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem.set_Text(String value)" NewName="A.c5443255f996b823bbfd0df53d8d698ce.set_c8b9510665a8c716d4991d0b6f3af7a9f(String c4f81bd929584ee73e2bdd2ed0319b6d5)" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem.get_ImageIndex()" NewName="A.c5443255f996b823bbfd0df53d8d698ce.get_c5bbed788a9524464930e5e66aa3c0996()" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c5443255f996b823bbfd0df53d8d698ce.set_c5bbed788a9524464930e5e66aa3c0996(Int32 c4f81bd929584ee73e2bdd2ed0319b6d5)" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem.ToString()" NewName="A.c5443255f996b823bbfd0df53d8d698ce.ToString()" />
+<Entry OldName="PdfEncrypter.MessageHelper.RegisterWindowMessage(String lpString)" NewName="PdfEncrypter.MessageHelper.c9f8c8886928f6be252ded84fd851ec11(String cc724c5eb28a247886f45fcd663a11cab)" />
+<Entry OldName="PdfEncrypter.Module..ctor()" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3..ctor()" />
+<Entry OldName="PdfEncrypter.Module..cctor()" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3..cctor()" />
+<Entry OldName="PdfEncrypter.Module.SHParseDisplayName(String pszName, IntPtr pbc, IntPtr&amp; ppidl, UInt32 sfgaoIn, UInt32&amp; psfgaoOut)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.ce6fb89e0fd452863758eedc75a7eddda(String c0d51bac94ff3e372b6b2980735e601a7, IntPtr cb4899a9ee89034de2c317c72af0bd569, IntPtr&amp; c1f28237775b20ee22bf779b026785fc6, UInt32 cfdb837574cf4987c295db8ae82629d19, UInt32&amp; cf3d18c988e5845dfe4b355eee7f16b0a)" />
+<Entry OldName="PdfEncrypter.Module.SHOpenFolderAndSelectItems(IntPtr pidlFolder, UInt32 cidl, IntPtr[] apidl, UInt32 dwFlags)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c57acb9e3d538e3104f5c0c14ef79f724(IntPtr cdb92d83f6510479ffce8023fd2d6f20c, UInt32 c72c846661ac0e01285dafd82fe7f87f9, IntPtr[] c058666bb9c6871ad5082bbcd2f3319dd, UInt32 c61ccf80a5e12d16f5ec0a8258722678c)" />
+<Entry OldName="PdfEncrypter.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c4a91a18887e8e958a0ea7d414f810f14(IntPtr c1e85bf1dcd1d666d454e2adfb9f924a9, Int32 cba0acd17b1e281b9cac6aff5e421f1a0, Int32 c80b9c303335e458270c03032d6c996fb, Int32 c4fe0e3cf1d3e19fe4c6b3ef84410a970)" />
+<Entry OldName="PdfEncrypter.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c484be834d1d6e245aba1770b1ab66c4e(IntPtr c3ddfec2255e40dd8422065b9f0acc539)" />
+<Entry OldName="PdfEncrypter.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c539328259234b4947ecfc659aacfc867(String cc56ed54d96981b9eec7d8c07d5b492bf, String cd75f91b596fa4dd68f4f591b168baeb8)" />
+<Entry OldName="PdfEncrypter.Module.ShowMessage(String msg)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cf4771df23ce277a4cd742fdd59d80dfb(String ce5ab9255e3a1b0dde4bf616f8a912896)" />
+<Entry OldName="PdfEncrypter.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c352324297c26e9bbc4e4e721a422846d(String ce5ab9255e3a1b0dde4bf616f8a912896, String c936aac23f6d90f2fb946c315095d85ff)" />
+<Entry OldName="PdfEncrypter.Module.ShowError(Exception ex)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cc835c20e465f0eb296142c7e7b5b6304(Exception c9e3288944c8f047e14a7b9958cf1dc18)" />
+<Entry OldName="PdfEncrypter.Module.ShowError(String msg)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cc835c20e465f0eb296142c7e7b5b6304(String ce5ab9255e3a1b0dde4bf616f8a912896)" />
+<Entry OldName="PdfEncrypter.Module.ShowError(String msg, Exception ex)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cc835c20e465f0eb296142c7e7b5b6304(String ce5ab9255e3a1b0dde4bf616f8a912896, Exception c9e3288944c8f047e14a7b9958cf1dc18)" />
+<Entry OldName="PdfEncrypter.Module.ShowError(String msg, String exstr)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cc835c20e465f0eb296142c7e7b5b6304(String ce5ab9255e3a1b0dde4bf616f8a912896, String c603f563c9bf720ea14158ea0846deb61)" />
+<Entry OldName="PdfEncrypter.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cbec18cb8ecbe5de999ae4152aeaf8976(String ce5ab9255e3a1b0dde4bf616f8a912896, String c936aac23f6d90f2fb946c315095d85ff)" />
+<Entry OldName="PdfEncrypter.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cd9a95c03b05c653cc41ff7571862d814(Object c771eea9e2e340fc2955407e1c5951aa6, EventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.Module.IsImage(String filepath)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c14a013da8f0bc091155c0520dee70532(String ce39db600fdc3a05272c8ac7e86c82f10)" />
+<Entry OldName="PdfEncrypter.Module.get_Modex64()" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.get_cc0b7212164deecfd4536fa85c81f06f9()" />
+<Entry OldName="PdfEncrypter.Module.IsLegalFilename(String name)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c0fda35bd6a4d3a10766d40db3a433254(String cb100d707f8307b468b422acd9209e03f)" />
+<Entry OldName="PdfEncrypter.Module.ParseDateTimeFromString(String str)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.c5ccd59b5384140fb881bd06782043fdf(String cbe1774d315a45353a0df9b624b4c5aa1)" />
+<Entry OldName="PdfEncrypter.Module.DeleteApplicationSettingsFile()" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.cbd5a16cd61a63a5b6d4d7d6da9c51436()" />
+<Entry OldName="PdfEncrypter.Module.RemoveQuotes(String args)" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3.ca26154e2bc04ea26060a270f564649c0(String c809601f1f3b331a1b9833d9a4fb62ed9)" />
+<Entry OldName="PdfEncrypter.NiceLine.InitializeComponent()" NewName="PdfEncrypter.NiceLine.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.OutputFolderHelper..ctor()" NewName="A.cb42219de8e683afbe6d4962d0f46f2aa..ctor()" />
+<Entry OldName="PdfEncrypter.OutputFolderHelper.SaveOutputFolder(String folder)" NewName="A.cb42219de8e683afbe6d4962d0f46f2aa.c6e2416513d1661ada74f9c03eabf0894(String cd3721dfdd7a0cc07b6a42339a88e46c0)" />
+<Entry OldName="PdfEncrypter.OutputFolderHelper.LoadOutputFolders()" NewName="A.cb42219de8e683afbe6d4962d0f46f2aa.cee78a8eb3c80f3832d34af97d9adb2a9()" />
+<Entry OldName="PdfEncrypter.Program.FreeConsole()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c9411e944b28d1435a2c9f0cbc8069cbc()" />
+<Entry OldName="PdfEncrypter.Program.AttachConsole(Int32 dwProcessId)" NewName="A.c0bf6191cc71536a90a1f938438354ca3.cf40e596eb30a919861446f8fbc253c5d(Int32 c6cf01917b03dcf8e4411362b69f9877d)" />
+<Entry OldName="PdfEncrypter.Program.AllocConsole()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c1ae8c3f5750a30f6f5689b65212b080c()" />
+<Entry OldName="PdfEncrypter.Program.SetupLocalized()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.ca3c8f438fa8965f0a7a4e9c2019ae511()" />
+<Entry OldName="PdfEncrypter.Program.SetupNSILang()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c80420950cf03eaced1c128eae7bb50af()" />
+<Entry OldName="PdfEncrypter.Program.Main(String[] args)" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c9b365937982725f7f36c405a7c8cf3cf(String[] c809601f1f3b331a1b9833d9a4fb62ed9)" />
+<Entry OldName="PdfEncrypter.Program.InitRegistryLuminati()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c696ae517f4c5683386312a64fe949231()" />
+<Entry OldName="PdfEncrypter.Program.SetLanguage()" NewName="A.c0bf6191cc71536a90a1f938438354ca3.c1c275fd16afbab557ab7bcaa8f001a53()" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper..ctor()" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65..ctor()" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.FillMenuRecentFile()" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.cfe332856879c8791604bea4e9e39bbd0()" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.FillMenuRecentFolder()" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.cac59028c051d4db09f2911d18ad0ebfc()" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.FillMenuRecentImportList()" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.cf8a312f34b4dade9a7ed6fd3d2dd27fd()" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.AddRecentFile(String filepath)" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.c74c703296839d7064de9a5182af3d324(String ce39db600fdc3a05272c8ac7e86c82f10)" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.ImportListRecent(String filepath)" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.c32fd87493402148712d1f61287c13151(String ce39db600fdc3a05272c8ac7e86c82f10)" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.AddRecentFolder(String filepath)" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.c388e31d9dd90242741961d2cb7dc27ae(String ce39db600fdc3a05272c8ac7e86c82f10)" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper.ArrayToListString(String[] str)" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65.ceaf2a277fa3340598dba70e672c6735c(String[] cbe1774d315a45353a0df9b624b4c5aa1)" />
+<Entry OldName="PdfEncrypter.RegistryHelper2..ctor()" NewName="A.cc7782b55834401e870fa92e2ba367645..ctor()" />
+<Entry OldName="PdfEncrypter.RegistryHelper2.GetKeyValue(String AppRegKey, String keystr)" NewName="A.cc7782b55834401e870fa92e2ba367645.c34a03a49028ffe12ae3585f9ea9139b8(String c90dce0234b6502e309ef58c781c22671, String ce2987ed0e0881346c7e6f8db704c153e)" />
+<Entry OldName="PdfEncrypter.RegistryHelper2.SetKeyValue2(String AppRegKey, String keystr, String keyvalue)" NewName="A.cc7782b55834401e870fa92e2ba367645.c1001cc33e3f3b290f0f9f6579ce6335a(String c90dce0234b6502e309ef58c781c22671, String ce2987ed0e0881346c7e6f8db704c153e, String c6b97dcb94b62afcbd972e78a6ba16a1b)" />
+<Entry OldName="PdfEncrypter.RegistryHelper2.SetKeyValue(String AppRegKey, String keystr, String keyvalue)" NewName="A.cc7782b55834401e870fa92e2ba367645.cabf71ed7af42c1398b096410e8ed4c3e(String c90dce0234b6502e309ef58c781c22671, String ce2987ed0e0881346c7e6f8db704c153e, String c6b97dcb94b62afcbd972e78a6ba16a1b)" />
+<Entry OldName="PdfEncrypter.ShareHelper..ctor()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061..ctor()" />
+<Entry OldName="PdfEncrypter.ShareHelper.get_ShareURL()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.get_c16e063229f9d7810c4268d23646fb7f4()" />
+<Entry OldName="PdfEncrypter.ShareHelper.get_ShareText()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.get_c6a810b49222e833f485f00a374fab782()" />
+<Entry OldName="PdfEncrypter.ShareHelper.ShareFacebook()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.cd6ee247ef6c01435fd18c8ecbc2b52f5()" />
+<Entry OldName="PdfEncrypter.ShareHelper.ShareTwitter()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.c9f1dbf4b655d7ee248a180d267160531()" />
+<Entry OldName="PdfEncrypter.ShareHelper.ShareGooglePlus()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.cc9bbb7c0527794c03eb0aae79b940d46()" />
+<Entry OldName="PdfEncrypter.ShareHelper.ShareLinkedIn()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.c29bb37cc58851049346c5150e408a1b5()" />
+<Entry OldName="PdfEncrypter.ShareHelper.ShareEmail()" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061.cb03a1d84f0cf70c127d4566c17d974cc()" />
+<Entry OldName="PdfEncrypter.ucTextProgressBar.InitializeComponent()" NewName="PdfEncrypter.ucTextProgressBar.cc3feef3570472a4dc6c6cba22b608ec0()" />
+<Entry OldName="PdfEncrypter.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="PdfEncrypter.UpdateHelper.ccc058b260ab972ef1b0a16086f18c600(Object c771eea9e2e340fc2955407e1c5951aa6, ProgressChangedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="PdfEncrypter.UpdateHelper.cd3a9db233a20d16981921745ec2a562d(Object c771eea9e2e340fc2955407e1c5951aa6, RunWorkerCompletedEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="PdfEncrypter.UpdateHelper.cfc728f5d95f6ee29445b34ec71818ec3(Object c771eea9e2e340fc2955407e1c5951aa6, DoWorkEventArgs cbd90b6a32b12406e49bd4d44209fc7a7)" />
+<Entry OldName="PdfEncrypter.ResFlags..ctor()" NewName="A.c5217f02f6e4ddcf438363c4add618df4..ctor()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_ResourceManager()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_ResourceManager()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_Culture()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_Culture()" />
+<Entry OldName="PdfEncrypter.ResFlags.set_Culture(CultureInfo value)" NewName="A.c5217f02f6e4ddcf438363c4add618df4.set_Culture(CultureInfo value)" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_belarus()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_belarus()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_china()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_china()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_croatia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_croatia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_czech_republic()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_czech_republic()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_denmark()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_denmark()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_estonia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_estonia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_finland()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_finland()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_france()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_france()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_georgia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_georgia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_germany()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_germany()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_great_britain()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_great_britain()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_greece()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_greece()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_hungary()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_hungary()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_iceland()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_iceland()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_india()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_india()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_indonesia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_indonesia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_iran()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_iran()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_israel()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_israel()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_italy()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_italy()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_japan()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_japan()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_latvia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_latvia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_lithuania()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_lithuania()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_netherlands()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_netherlands()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_norway()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_norway()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_poland()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_poland()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_portugal()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_portugal()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_romania()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_romania()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_russia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_russia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_saudi_arabia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_saudi_arabia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_slovakia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_slovakia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_slovenia()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_slovenia()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_south_korea()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_south_korea()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_spain()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_spain()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_sweden()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_sweden()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_thailand()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_thailand()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_turkey()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_turkey()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_ukraine()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_ukraine()" />
+<Entry OldName="PdfEncrypter.ResFlags.get_flag_vietnam()" NewName="A.c5217f02f6e4ddcf438363c4add618df4.get_flag_vietnam()" />
+<Entry OldName="PdfEncrypter.ResTranslate..ctor()" NewName="A.c12646d46762c702739a778bded01f5df..ctor()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_ResourceManager()" NewName="A.c12646d46762c702739a778bded01f5df.get_ResourceManager()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Culture()" NewName="A.c12646d46762c702739a778bded01f5df.get_Culture()" />
+<Entry OldName="PdfEncrypter.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c12646d46762c702739a778bded01f5df.set_Culture(CultureInfo value)" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_An_error_occured_while_protecting_PDF_File()" NewName="A.c12646d46762c702739a778bded01f5df.get_An_error_occured_while_protecting_PDF_File()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Download()" NewName="A.c12646d46762c702739a778bded01f5df.get_Download()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Encrypt_PDF()" NewName="A.c12646d46762c702739a778bded01f5df.get_Encrypt_PDF()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error__Could_not_Create_Directory_for_File()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error__Could_not_Create_Directory_for_File()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error__Could_not_send_Questionnaire__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error__Could_not_send_Questionnaire__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error__Wrong_User_Password_for_File()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error__Wrong_User_Password_for_File()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error_Could_not_change_Language__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error_Could_not_change_Language__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Error_could_not_parse_Arguments__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Error_could_not_parse_Arguments__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_I_did_find_a_free_application_to_protect_PDF_files__()" NewName="A.c12646d46762c702739a778bded01f5df.get_I_did_find_a_free_application_to_protect_PDF_files__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Is_From_Windows_Explorer()" NewName="A.c12646d46762c702739a778bded01f5df.get_Is_From_Windows_Explorer()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Operation_completed_successfully__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Operation_completed_successfully__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Operation_completed_with_Errors__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Operation_completed_with_Errors__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Overwrite_PDF_Document()" NewName="A.c12646d46762c702739a778bded01f5df.get_Overwrite_PDF_Document()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_add_a_PDF_File_first__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_add_a_PDF_File_first__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_add_only_PDF_Files__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_add_only_PDF_Files__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_add_PDF_Files_first__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_add_PDF_Files_first__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_enter_a_Subfolder_Name__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_enter_a_Subfolder_Name__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_enter_a_valid_Subfolder_Name__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_enter_a_valid_Subfolder_Name__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_enter_the_correct_User_Password__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_enter_the_correct_User_Password__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_fill_out_the_Questionnaire__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_fill_out_the_Questionnaire__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_insert_a_valid_Password__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_insert_a_valid_Password__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Please_specify_another_option_as_the_Output_Folder__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Please_specify_another_option_as_the_Output_Folder__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Same_Folder_of_PDF_Document()" NewName="A.c12646d46762c702739a778bded01f5df.get_Same_Folder_of_PDF_Document()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Subfolder()" NewName="A.c12646d46762c702739a778bded01f5df.get_Subfolder()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Subfolder_of_PDF_Document()" NewName="A.c12646d46762c702739a778bded01f5df.get_Subfolder_of_PDF_Document()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Unspecified_Error()" NewName="A.c12646d46762c702739a778bded01f5df.get_Unspecified_Error()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_Would_you_like_to_add_also_Subdirectories__()" NewName="A.c12646d46762c702739a778bded01f5df.get_Would_you_like_to_add_also_Subdirectories__()" />
+<Entry OldName="PdfEncrypter.ResTranslate.get_You_have_to_set_an_Owner_Password_if_you_do_not_grant_all_permissions__()" NewName="A.c12646d46762c702739a778bded01f5df.get_You_have_to_set_an_Owner_Password_if_you_do_not_grant_all_permissions__()" />
+<Entry OldName="PdfEncrypter.TranslateHelper..ctor()" NewName="A.cc3f0b477b85c0e8b8302a04c4aba1bf7..ctor()" />
+<Entry OldName="PdfEncrypter.TranslateHelper..cctor()" NewName="A.cc3f0b477b85c0e8b8302a04c4aba1bf7..cctor()" />
+<Entry OldName="PdfEncrypter.TranslateHelper.Translate(String str)" NewName="A.cc3f0b477b85c0e8b8302a04c4aba1bf7.cb5f8414afdc4a1fbc2b0635ad6917470(String cbe1774d315a45353a0df9b624b4c5aa1)" />
+<Entry OldName="PdfEncrypter.Properties.Resources..ctor()" NewName="A.c1516e0504890398a0c81c6d2c92624a0..ctor()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_ResourceManager()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_ResourceManager()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_Culture()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_Culture()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c1516e0504890398a0c81c6d2c92624a0.set_Culture(CultureInfo value)" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get__200px_AGPLv3_Logo_svg()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get__200px_AGPLv3_Logo_svg()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get__4dots_logo_official()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get__4dots_logo_official()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get__lock()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get__lock()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_about()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_about()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_add()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_add()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_add1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_add1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_add2()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_add2()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_arrow_right_blue()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_arrow_right_blue()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_brush2()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_brush2()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_brush4()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_brush4()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_check()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_check()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_copy()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_copy()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_delete()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_delete()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_delete1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_delete1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_document_info()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_document_info()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_document_info1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_document_info1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_edit()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_edit()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_exit()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_exit()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_facebook_24()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_facebook_24()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_folder()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_folder()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_folder_add()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_folder_add()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_folder_add1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_folder_add1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_folder1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_folder1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_googleplus_24()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_googleplus_24()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_help2()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_help2()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_import1()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_import1()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_linkedin_24()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_linkedin_24()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_lock24()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_lock24()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_mail()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_mail()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_onlinepdfapps_com_main_screen_700_373()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_onlinepdfapps_com_main_screen_700_373()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_pdf_encrypter_32()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_pdf_encrypter_32()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_social_twitter_box_white_icon_32()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_social_twitter_box_white_icon_32()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_twitter_24()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_twitter_24()" />
+<Entry OldName="PdfEncrypter.Properties.Resources.get_youtube_32()" NewName="A.c1516e0504890398a0c81c6d2c92624a0.get_youtube_32()" />
+<Entry OldName="PdfEncrypter.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="PdfEncrypter.frmProgress.cd52725ec739d7017b365e008041b4a11..ctor(Object object, IntPtr method)" />
+<Entry OldName="PdfEncrypter.frmProgress.HideFormDelegate.Invoke()" NewName="PdfEncrypter.frmProgress.cd52725ec739d7017b365e008041b4a11.Invoke()" />
+<Entry OldName="PdfEncrypter.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="PdfEncrypter.frmProgress.cd52725ec739d7017b365e008041b4a11.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="PdfEncrypter.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="PdfEncrypter.frmProgress.cd52725ec739d7017b365e008041b4a11.EndInvoke(IAsyncResult result)" />
+<Entry OldName="PdfEncrypter.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="PdfEncrypter.frmProgress.cc1486a6d42db1844983d806f12ce3a7c..ctor(Object object, IntPtr method)" />
+<Entry OldName="PdfEncrypter.frmProgress.ShowFormDelegate.Invoke()" NewName="PdfEncrypter.frmProgress.cc1486a6d42db1844983d806f12ce3a7c.Invoke()" />
+<Entry OldName="PdfEncrypter.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="PdfEncrypter.frmProgress.cc1486a6d42db1844983d806f12ce3a7c.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="PdfEncrypter.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="PdfEncrypter.frmProgress.cc1486a6d42db1844983d806f12ce3a7c.EndInvoke(IAsyncResult result)" />
+<Entry OldName="PdfEncrypter.ArgsHelper" NewName="A.c5edfb9b2a1a0685fbc0aca552b6ab570" />
+<Entry OldName="PdfEncrypter.DownloadSuggestionsHelper" NewName="A.c9604fc80f582c9f9753a6b2a9f7d66db" />
+<Entry OldName="PdfEncrypter.EncryptHelper" NewName="A.c84fdb5cd0d7e4dc43422cfc6806e5992" />
+<Entry OldName="PdfEncrypter.ExcelImporter" NewName="A.cb81c6ef86eaadfd41c632b36595f6a85" />
+<Entry OldName="PdfEncrypter.ExceptionHandlersHelper" NewName="A.c6a2d1fd1f7e4e66f53ce84ee6139f015" />
+<Entry OldName="PdfEncrypter.frmProgress+HideFormDelegate" NewName="PdfEncrypter.frmProgress+cd52725ec739d7017b365e008041b4a11" />
+<Entry OldName="PdfEncrypter.frmProgress+ShowFormDelegate" NewName="PdfEncrypter.frmProgress+cc1486a6d42db1844983d806f12ce3a7c" />
+<Entry OldName="PdfEncrypter.ImageComboBox" NewName="A.c8e9194f6a7d849d03c7a8f5ffb0ee45a" />
+<Entry OldName="PdfEncrypter.ComboBoxExItem" NewName="A.c5443255f996b823bbfd0df53d8d698ce" />
+<Entry OldName="PdfEncrypter.Module" NewName="A.c48dcfb6bfd878a39bbf55a0cd55a3fd3" />
+<Entry OldName="PdfEncrypter.OutputFolderHelper" NewName="A.cb42219de8e683afbe6d4962d0f46f2aa" />
+<Entry OldName="PdfEncrypter.Program" NewName="A.c0bf6191cc71536a90a1f938438354ca3" />
+<Entry OldName="PdfEncrypter.RecentFilesHelper" NewName="A.c8c349ef8d0010e4ac8481b10167fdd65" />
+<Entry OldName="PdfEncrypter.RegistryHelper2" NewName="A.cc7782b55834401e870fa92e2ba367645" />
+<Entry OldName="PdfEncrypter.ShareHelper" NewName="A.c6c5d17c9880ede5f8a69b9f3efd2d061" />
+<Entry OldName="PdfEncrypter.ResFlags" NewName="A.c5217f02f6e4ddcf438363c4add618df4" />
+<Entry OldName="PdfEncrypter.ResTranslate" NewName="A.c12646d46762c702739a778bded01f5df" />
+<Entry OldName="PdfEncrypter.TranslateHelper" NewName="A.cc3f0b477b85c0e8b8302a04c4aba1bf7" />
+<Entry OldName="PdfEncrypter.Properties.Resources" NewName="A.c1516e0504890398a0c81c6d2c92624a0" />
+<Assembly Name="PdfEncrypter"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="PdfEncrypter.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="ExamineArgs" Variables="args;V_0;V_1;V_2;tempfile;sr;scont;V_6;k;V_8;V_9;V_10;parval;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;V_40;V_41;V_42;V_43;V_44;m;V_46;V_47;V_48;V_49;V_50;V_51;V_52;ex;" ParamCnt="1" />
+<Method Token="100663301" Name="GetParameter" Variables="arg;spos;V_1;V_2;str;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663302" Name="SplitArguments" Variables="commandLine;parmChars;inSingleQuote;inDoubleQuote;index;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663303" Name="ShowCommandUsage" Variables="msg;" ParamCnt="0" />
+<Method Token="100663304" Name="GetCommandUsage" Variables="msg;V_1;" ParamCnt="0" />
+<Method Token="100663305" Name="get_IsFromWindowsExplorer" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663306" Name="get_IsFromCommandLine" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663307" Name="ExecuteCommandLine" Variables="err;finished;V_2;V_3;exl;V_5;V_6;ex;V_8;V_9;V_10;V_11;" ParamCnt="0" />
+<Field Token="67108865" Name="FromWindowsExplorer" />
+<Type Token="33554436" Name="PdfEncrypter.ReadListsResult" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108866" Name="Success" />
+<Field Token="67108867" Name="err" />
+<Type Token="33554437" Name="PdfEncrypter.CustomForm" />
+<Method Token="100663310" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663311" Name="OnPaintBackground" Variables="this;e;V_0;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663312" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663313" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663314" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663315" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663316" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663317" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663318" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108868" Name="LoadComplete" />
+<Field Token="67108869" Name="tooltip" />
+<Field Token="67108870" Name="components" />
+<Type Token="33554439" Name="PdfEncrypter.DownloadSuggestionsHelper" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;V_4;tsi;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663327" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108872" Name="tsiDownloadRoot" />
+<Field Token="67108873" Name="Category" />
+<Field Token="67108874" Name="App" />
+<Field Token="67108875" Name="Url" />
+<Type Token="33554440" Name="PdfEncrypter.EncryptHelper" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663330" Name="EncryptMultiplePDF" Variables="dt;sCmbOutputDir;encryptargs;docargs;err;k;outfilepath;filepath;password;rootfolder;newuserpassword;newownerpassword;V_8;V_9;V_10;dirpath;V_12;subfolderspos;subfolder;V_15;V_16;dep;outdfp;V_19;ex;V_21;" ParamCnt="4" />
+<Method Token="100663331" Name="EncryptMultiplePDFCmd" Variables="dt;err;k;outfilepath;filepath;password;rootfolder;V_6;V_7;V_8;dirpath;V_10;V_11;V_12;V_13;dep;outdfp;V_16;ex;V_18;V_19;" ParamCnt="1" />
+<Method Token="100663332" Name="EncryptSinglePDF" Variables="InputFile;OutputFile;Password;NewUserPassword;NewOwnerPassword;encryptargs;docargs;err;fi;dtcreated;dtlastmod;reader;fi2;V_6;exd;V_8;userp;ownerp;dict;TmpFile;permissions;strength;input;V_16;ex;V_18;V_19;V_20;f2;dres;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;V_40;V_41;V_42;V_43;memoryStream;stamper;V_46;V_47;V_48;fi3;V_50;V_51;fi4;V_53;V_54;V_55;exm;V_57;V_58;V_59;ex;" ParamCnt="7" />
+<Method Token="100663333" Name="EncryptSinglePDFCmd" Variables="InputFile;OutputFile;Password;err;reader;V_2;exd;V_4;userp;ownerp;dict;TmpFile;input;V_10;ex;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;memoryStream;stamper;V_27;V_28;output;permissions;strength;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;V_40;V_41;exm;V_43;ex;" ParamCnt="3" />
+<Field Token="67108876" Name="Title" />
+<Field Token="67108877" Name="Author" />
+<Field Token="67108878" Name="Subject" />
+<Field Token="67108879" Name="Keywords" />
+<Field Token="67108880" Name="CreationDate" />
+<Field Token="67108881" Name="ModificationDate" />
+<Field Token="67108882" Name="Creator" />
+<Field Token="67108883" Name="SetDocInfo" />
+<Field Token="67108884" Name="DefaultPassword" />
+<Field Token="67108885" Name="CANCELLED" />
+<Type Token="33554441" Name="PdfEncrypter.EncryptArgs" />
+<Method Token="100663334" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108886" Name="cmbOutputDir" />
+<Field Token="67108887" Name="chkCopy" />
+<Field Token="67108888" Name="chkFormFill" />
+<Field Token="67108889" Name="chkHighPrinting" />
+<Field Token="67108890" Name="chkLowPrinting" />
+<Field Token="67108891" Name="chkModifyContents" />
+<Field Token="67108892" Name="chkScreenReaders" />
+<Field Token="67108893" Name="chkAssembly" />
+<Field Token="67108894" Name="chkAnnotations" />
+<Field Token="67108895" Name="rd128Bits" />
+<Field Token="67108896" Name="txtUserPassword" />
+<Field Token="67108897" Name="txtOwnerPassword" />
+<Type Token="33554442" Name="PdfEncrypter.DocArgs" />
+<Method Token="100663335" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108898" Name="chkAuthor" />
+<Field Token="67108899" Name="chkCreator" />
+<Field Token="67108900" Name="chkKeywords" />
+<Field Token="67108901" Name="chkModificationDate" />
+<Field Token="67108902" Name="chkCreationDate" />
+<Field Token="67108903" Name="chkTitle" />
+<Field Token="67108904" Name="chkSubject" />
+<Type Token="33554443" Name="PdfEncrypter.ExcelImporter" />
+<Method Token="100663336" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663337" Name="ImportListExcel" Variables="this;filepath;stream;excelReader;curdir;result;V_4;V_5;V_6;m;k;V_9;file;existingpwd;newuserpwd;newownerpwd;V_14;V_15;V_16;V_17;V_18;" ParamCnt="2" />
+<Method Token="100663338" Name="GetPart" Variables="part;V_0;epos;V_2;V_3;epos;V_5;V_6;" ParamCnt="1" />
+<Type Token="33554444" Name="PdfEncrypter.ExceptionHandlersHelper" />
+<Method Token="100663339" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663341" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663342" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554445" Name="PdfEncrypter.frmAbout" />
+<Method Token="100663343" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663344" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663345" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="OnPaintBackground" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663347" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663348" Name="lblAdeia_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663350" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108905" Name="lblf" />
+<Field Token="67108906" Name="LDT" />
+<Field Token="67108907" Name="components" />
+<Field Token="67108908" Name="lblAbout" />
+<Field Token="67108909" Name="btnClose" />
+<Field Token="67108910" Name="pictureBox1" />
+<Type Token="33554446" Name="PdfEncrypter.frmDocumentInfo" />
+<Method Token="100663351" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663352" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663353" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="frmDocumentInfo_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="chkTitle_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="chkAuthor_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="chkSubject_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="chkKeywords_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="chkCreator_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="chkCreationDate_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663362" Name="chkModificationDate_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663363" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663364" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108911" Name="Instance" />
+<Field Token="67108912" Name="components" />
+<Field Token="67108913" Name="txtKeywords" />
+<Field Token="67108914" Name="txtSubject" />
+<Field Token="67108915" Name="txtAuthor" />
+<Field Token="67108916" Name="txtTitle" />
+<Field Token="67108917" Name="btnExit" />
+<Field Token="67108918" Name="btnOK" />
+<Field Token="67108919" Name="txtCreator" />
+<Field Token="67108920" Name="dpCreationDate" />
+<Field Token="67108921" Name="dpModificationDate" />
+<Field Token="67108922" Name="chkTitle" />
+<Field Token="67108923" Name="chkAuthor" />
+<Field Token="67108924" Name="chkSubject" />
+<Field Token="67108925" Name="chkKeywords" />
+<Field Token="67108926" Name="chkCreator" />
+<Field Token="67108927" Name="chkCreationDate" />
+<Field Token="67108928" Name="chkModificationDate" />
+<Type Token="33554447" Name="PdfEncrypter.frmDownloadUpdate" />
+<Method Token="100663365" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663366" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663367" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663368" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663369" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663370" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663371" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663372" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663373" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663374" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108929" Name="_DownloadFile" />
+<Field Token="67108930" Name="client" />
+<Field Token="67108931" Name="Cancelled" />
+<Field Token="67108932" Name="components" />
+<Field Token="67108933" Name="pgBar" />
+<Field Token="67108934" Name="btnCancelDownload" />
+<Field Token="67108935" Name="bwDownload" />
+<Field Token="67108936" Name="label1" />
+<Field Token="67108937" Name="lblTotalSize" />
+<Type Token="33554448" Name="PdfEncrypter.frmImportCSV" />
+<Method Token="100663375" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663376" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663377" Name="btnOK_Click" Variables="this;sender;e;column;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663378" Name="btnBrowse_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663379" Name="frmImportCSV_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663380" Name="cmbDelimiter_SelectedIndexChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663381" Name="GetSelectedDelimiter" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663382" Name="ImportCSV" Variables="this;filepath;column;curdir;csv;fieldCount;headers;file;fullfilepath;existingpwd;newuserpwd;newownerpwd;V_10;V_11;V_12;V_13;" ParamCnt="2" />
+<Method Token="100663383" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663384" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108938" Name="components" />
+<Field Token="67108939" Name="label4" />
+<Field Token="67108940" Name="label6" />
+<Field Token="67108941" Name="label1" />
+<Field Token="67108942" Name="btnCancel" />
+<Field Token="67108943" Name="btnOK" />
+<Field Token="67108944" Name="btnBrowse" />
+<Field Token="67108945" Name="openFileDialog1" />
+<Field Token="67108946" Name="chkHasHeaders" />
+<Field Token="67108947" Name="txtColumn" />
+<Field Token="67108948" Name="txtDelimiterOther" />
+<Field Token="67108949" Name="txtFilepath" />
+<Field Token="67108950" Name="cmbDelimiter" />
+<Field Token="67108951" Name="cmbTextDelimiter" />
+<Field Token="67108952" Name="label2" />
+<Field Token="67108953" Name="label3" />
+<Field Token="67108954" Name="txtEscape" />
+<Field Token="67108955" Name="txtColumnOutput" />
+<Field Token="67108956" Name="lblColumnOutput" />
+<Field Token="67108957" Name="label5" />
+<Type Token="33554449" Name="PdfEncrypter.frmLanguage" />
+<Method Token="100663385" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663386" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663387" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663388" Name="DownloadLanguage" Variables="langcode;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="1" />
+<Method Token="100663389" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663390" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663391" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663392" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108958" Name="LangCodes" />
+<Field Token="67108959" Name="LangDesc" />
+<Field Token="67108960" Name="LangImg" />
+<Field Token="67108961" Name="SelectedLanguageCode" />
+<Field Token="67108962" Name="components" />
+<Field Token="67108963" Name="label1" />
+<Field Token="67108964" Name="cmbLanguage" />
+<Field Token="67108965" Name="btnOK" />
+<Type Token="33554450" Name="PdfEncrypter.frmMain" />
+<Method Token="100663393" Name=".ctor" Variables="this;V_0;V_1;fp;" ParamCnt="1" />
+<Method Token="100663394" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663395" Name="button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663396" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663397" Name="SetupOutputFolders" Variables="this;" ParamCnt="1" />
+<Method Token="100663398" Name="SetupOnLoad" Variables="this;ds;V_1;" ParamCnt="1" />
+<Method Token="100663399" Name="EnableDisableForm" Variables="this;enable;V_0;co;V_2;" ParamCnt="2" />
+<Method Token="100663400" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663401" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663402" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663403" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663404" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663405" Name="ChangeLanguage" Variables="this;language_code;maximized;key;key2;V_3;V_4;ex;V_6;" ParamCnt="2" />
+<Method Token="100663406" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663407" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663408" Name="btnAddFiles_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663409" Name="AddFile" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663410" Name="AddFile" Variables="this;filepath;password;V_0;" ParamCnt="3" />
+<Method Token="100663411" Name="AddFile" Variables="this;filepath;password;rootfolder;V_0;" ParamCnt="4" />
+<Method Token="100663412" Name="AddFile" Variables="this;filepath;password;rootfolder;newuserpassword;newownerpassword;dr;fi;sizekb;V_3;V_4;V_5;V_6;" ParamCnt="6" />
+<Method Token="100663413" Name="btnAddFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663414" Name="AddFolder" Variables="this;folder_path;" ParamCnt="2" />
+<Method Token="100663415" Name="AddFolder" Variables="this;folder_path;password;" ParamCnt="3" />
+<Method Token="100663416" Name="AddFolder" Variables="this;folder_path;password;newuserpassword;newownerpassword;filez;V_1;V_2;V_3;V_4;dres;V_6;k;V_8;V_9;" ParamCnt="5" />
+<Method Token="100663417" Name="btnRemoveFile_Click" Variables="this;sender;e;cells;rows;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663418" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663419" Name="openToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663420" Name="buyNowToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663421" Name="WndProc" Variables="this;m;V_0;mystr;mytype;arg;args;n;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663422" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663423" Name="btnClearMerge_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663424" Name="HasEmptyOwnerPassword" Variables="this;k;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663425" Name="HasEmptyPasswords" Variables="this;k;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663426" Name="btnEncrypt_Click" Variables="this;sender;e;fp;encryptargs;docargs;lst;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;f;ex;" ParamCnt="3" />
+<Method Token="100663427" Name="frmMain_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663428" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;isimage;V_4;" ParamCnt="3" />
+<Method Token="100663429" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663430" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663431" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663432" Name="btnOpenFolder_Click" Variables="this;sender;e;V_0;dirpath;filepath;outfilepath;args;info;V_6;V_7;V_8;subfolderspos;subfolder;V_11;" ParamCnt="3" />
+<Method Token="100663433" Name="btnChangeFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663434" Name="backgroundWorker1_DoWork" Variables="this;sender;e;lst;encrypargs;docargs;" ParamCnt="3" />
+<Method Token="100663435" Name="btnDocumentInfo_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663436" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663437" Name="cmbOutputDir_SelectedIndexChanged" Variables="this;sender;e;V_0;V_1;fob;V_3;" ParamCnt="3" />
+<Method Token="100663438" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;filepath;args;info;V_3;" ParamCnt="3" />
+<Method Token="100663439" Name="contextMenuStrip1_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663440" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663441" Name="chkShowPasswords_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663442" Name="tsiFacebook_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663443" Name="tsiTwitter_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663444" Name="tsiGooglePlus_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663445" Name="tsiLinkedIn_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663446" Name="tsiEmail_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663447" Name="tsdbAddFile_ButtonClick" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663448" Name="tsdbAddFile_DropDownItemClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663449" Name="tsdbAddFolder_ButtonClick" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663450" Name="tsdbAddFolder_DropDownItemClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663451" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663452" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663453" Name="ImportList" Variables="this;listfilepath;curdir;parser;fields;line;filepath;password;newuserpassword;newownerpassword;V_8;V_9;V_10;V_11;ex;" ParamCnt="2" />
+<Method Token="100663454" Name="ImportListOld" Variables="this;listfilepath;curdir;sr;line;filepath;password;V_5;compos;V_7;epos;V_9;V_10;epos;V_12;V_13;V_14;V_15;V_16;exq;V_18;V_19;V_20;V_21;ex;" ParamCnt="2" />
+<Method Token="100663455" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663456" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663457" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663458" Name="keepFolderStructureToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663459" Name="btnSelectAll_Click" Variables="this;sender;e;V_0;co;cocchk;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663460" Name="btnUnselectAll_Click" Variables="this;sender;e;V_0;co;cocchk;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663461" Name="btnInvertSelection_Click" Variables="this;sender;e;V_0;co;cocchk;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663462" Name="luminatiSettingsToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663463" Name="btnSetForAllUserPassword_Click" Variables="this;sender;e;k;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663464" Name="btnSetForAllOwnerPassword_Click" Variables="this;sender;e;k;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663465" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663466" Name="selectNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663467" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663468" Name="youtubeChannelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663469" Name="enterFileListToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663470" Name="saveCurrentFileListToolStripMenuItem_Click" Variables="this;sender;e;V_0;V_1;sw;k;V_4;" ParamCnt="3" />
+<Method Token="100663471" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
+<Method Token="100663472" Name="importListFromCSVFileToolStripMenuItem_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663473" Name="tryAlsoOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663474" Name="commandLineArgumentsToolStripMenuItem_Click" Variables="this;sender;e;fm;" ParamCnt="3" />
+<Method Token="100663475" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663476" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle4;dataGridViewCellStyle1;dataGridViewCellStyle2;dataGridViewCellStyle3;" ParamCnt="1" />
+<Field Token="67108966" Name="Instance" />
+<Field Token="67108967" Name="dt" />
+<Field Token="67108968" Name="Err" />
+<Field Token="67108969" Name="cmbOutputDirStr" />
+<Field Token="67108970" Name="IsDragging" />
+<Field Token="67108971" Name="SilentAdd" />
+<Field Token="67108972" Name="SilentAddErr" />
+<Field Token="67108973" Name="components" />
+<Field Token="67108974" Name="menuStrip1" />
+<Field Token="67108975" Name="fileToolStripMenuItem" />
+<Field Token="67108976" Name="exitToolStripMenuItem" />
+<Field Token="67108977" Name="helpToolStripMenuItem" />
+<Field Token="67108978" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108979" Name="aboutToolStripMenuItem" />
+<Field Token="67108980" Name="openFileDialog1" />
+<Field Token="67108981" Name="saveFileDialog1" />
+<Field Token="67108982" Name="folderBrowserDialog1" />
+<Field Token="67108983" Name="tiHelpFeedback" />
+<Field Token="67108984" Name="contextMenuStrip1" />
+<Field Token="67108985" Name="openToolStripMenuItem" />
+<Field Token="67108986" Name="toolStripMenuItem1" />
+<Field Token="67108987" Name="dgFiles" />
+<Field Token="67108988" Name="downloadToolStripMenuItem" />
+<Field Token="67108989" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108990" Name="languageToolStripMenuItem" />
+<Field Token="67108991" Name="btnOpenFolder" />
+<Field Token="67108992" Name="btnChangeFolder" />
+<Field Token="67108993" Name="folderBrowserDialog2" />
+<Field Token="67108994" Name="groupBox1" />
+<Field Token="67108995" Name="backgroundWorker1" />
+<Field Token="67108996" Name="groupBox2" />
+<Field Token="67108997" Name="groupBox3" />
+<Field Token="67108998" Name="groupBox4" />
+<Field Token="67108999" Name="label2" />
+<Field Token="67109000" Name="label1" />
+<Field Token="67109001" Name="chkModifyContents" />
+<Field Token="67109002" Name="chkScreenReaders" />
+<Field Token="67109003" Name="chkAnnotations" />
+<Field Token="67109004" Name="chkLowPrinting" />
+<Field Token="67109005" Name="chkHighPrinting" />
+<Field Token="67109006" Name="chkFormFill" />
+<Field Token="67109007" Name="chkAssembly" />
+<Field Token="67109008" Name="chkCopy" />
+<Field Token="67109009" Name="rd40Bits" />
+<Field Token="67109010" Name="rd128Bits" />
+<Field Token="67109011" Name="txtOwnerPassword" />
+<Field Token="67109012" Name="txtUserPassword" />
+<Field Token="67109013" Name="toolStrip1" />
+<Field Token="67109014" Name="tsbRemove" />
+<Field Token="67109015" Name="toolStripSeparator1" />
+<Field Token="67109016" Name="tsbProtect" />
+<Field Token="67109017" Name="tsbDocumentInfo" />
+<Field Token="67109018" Name="toolTip1" />
+<Field Token="67109019" Name="cmbOutputDir" />
+<Field Token="67109020" Name="exploreToolStripMenuItem" />
+<Field Token="67109021" Name="removeToolStripMenuItem" />
+<Field Token="67109022" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109023" Name="chkShowPasswords" />
+<Field Token="67109024" Name="tsdbAddFile" />
+<Field Token="67109025" Name="tsdbAddFolder" />
+<Field Token="67109026" Name="tsdbImportList" />
+<Field Token="67109027" Name="tsbShare" />
+<Field Token="67109028" Name="tsiFacebook" />
+<Field Token="67109029" Name="tsiTwitter" />
+<Field Token="67109030" Name="tsiGooglePlus" />
+<Field Token="67109031" Name="tsiLinkedIn" />
+<Field Token="67109032" Name="tsiEmail" />
+<Field Token="67109033" Name="toolStripSeparator2" />
+<Field Token="67109034" Name="toolStripSeparator3" />
+<Field Token="67109035" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67109036" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67109037" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67109038" Name="optionsToolStripMenuItem" />
+<Field Token="67109039" Name="keepFolderStructureToolStripMenuItem" />
+<Field Token="67109040" Name="btnSelectAll" />
+<Field Token="67109041" Name="btnUnselectAll" />
+<Field Token="67109042" Name="btnInvertSelection" />
+<Field Token="67109043" Name="luminatiSettingsToolStripMenuItem" />
+<Field Token="67109044" Name="chkOverwritePasswords" />
+<Field Token="67109045" Name="btnSetForAllOwnerPassword" />
+<Field Token="67109046" Name="btnSetForAllUserPassword" />
+<Field Token="67109047" Name="colFilename" />
+<Field Token="67109048" Name="colUserPassword" />
+<Field Token="67109049" Name="colNewUserPassword" />
+<Field Token="67109050" Name="colNewOwnerPassword" />
+<Field Token="67109051" Name="colSize" />
+<Field Token="67109052" Name="colFileDate" />
+<Field Token="67109053" Name="colFullFilePath" />
+<Field Token="67109054" Name="editToolStripMenuItem" />
+<Field Token="67109055" Name="removeToolStripMenuItem1" />
+<Field Token="67109056" Name="clearToolStripMenuItem" />
+<Field Token="67109057" Name="toolStripMenuItem2" />
+<Field Token="67109058" Name="selectAllToolStripMenuItem" />
+<Field Token="67109059" Name="selectNoneToolStripMenuItem" />
+<Field Token="67109060" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67109061" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67109062" Name="addFile9sToolStripMenuItem" />
+<Field Token="67109063" Name="addFolderToolStripMenuItem" />
+<Field Token="67109064" Name="toolStripMenuItem3" />
+<Field Token="67109065" Name="importListFromTextFileToolStripMenuItem" />
+<Field Token="67109066" Name="importListFromCSVFileToolStripMenuItem" />
+<Field Token="67109067" Name="importListFromExcelFileToolStripMenuItem" />
+<Field Token="67109068" Name="saveCurrentFileListToolStripMenuItem" />
+<Field Token="67109069" Name="toolStripMenuItem4" />
+<Field Token="67109070" Name="enterFileListToolStripMenuItem" />
+<Field Token="67109071" Name="toolsToolStripMenuItem" />
+<Field Token="67109072" Name="protectToolStripMenuItem" />
+<Field Token="67109073" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67109074" Name="exploreOutputFolderWhenDoneToolStripMenuItem" />
+<Field Token="67109075" Name="keepCreationDateToolStripMenuItem" />
+<Field Token="67109076" Name="keepLastModificationDateToolStripMenuItem" />
+<Field Token="67109077" Name="showMessageOnSucessToolStripMenuItem" />
+<Field Token="67109078" Name="tsbClear" />
+<Field Token="67109079" Name="tryAlsoOnlineVersionAtOnlinepdfappscomToolStripMenuItem" />
+<Field Token="67109080" Name="commandLineArgumentsToolStripMenuItem" />
+<Type Token="33554451" Name="PdfEncrypter.frmMessage" />
+<Method Token="100663477" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663478" Name=".ctor" Variables="this;forCmdArgs;" ParamCnt="2" />
+<Method Token="100663479" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663480" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663481" Name="btnCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663482" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663483" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109081" Name="ForCommandLineArgs" />
+<Field Token="67109082" Name="components" />
+<Field Token="67109083" Name="lblMsg" />
+<Field Token="67109084" Name="txtMsg" />
+<Field Token="67109085" Name="btnOK" />
+<Field Token="67109086" Name="chkShow" />
+<Field Token="67109087" Name="btnCopy" />
+<Type Token="33554453" Name="PdfEncrypter.frmMultipleFiles" />
+<Method Token="100663491" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name=".ctor" Variables="this;batchjoin;txt;" ParamCnt="3" />
+<Method Token="100663493" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663494" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663495" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663497" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663498" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663499" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109094" Name="Output" />
+<Field Token="67109095" Name="BatchJoin" />
+<Field Token="67109096" Name="components" />
+<Field Token="67109097" Name="lblBatchJoin" />
+<Field Token="67109098" Name="btnCancel" />
+<Field Token="67109099" Name="btnOK" />
+<Field Token="67109100" Name="txtFiles" />
+<Field Token="67109101" Name="label2" />
+<Field Token="67109102" Name="btnBrowse" />
+<Field Token="67109103" Name="openFileDialog1" />
+<Type Token="33554454" Name="PdfEncrypter.frmOutputSubFolder" />
+<Method Token="100663500" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663501" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663502" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663503" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663504" Name="frmOutputSubFolder_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663505" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663506" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109104" Name="components" />
+<Field Token="67109105" Name="btnOK" />
+<Field Token="67109106" Name="btnCancel" />
+<Field Token="67109107" Name="label1" />
+<Field Token="67109108" Name="txtSubfolder" />
+<Type Token="33554455" Name="PdfEncrypter.frmPassword" />
+<Method Token="100663507" Name=".ctor" Variables="this;inputfile;lbl;" ParamCnt="2" />
+<Method Token="100663508" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663509" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663510" Name="frmPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663511" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663512" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109109" Name="InputFile" />
+<Field Token="67109110" Name="components" />
+<Field Token="67109111" Name="btnOK" />
+<Field Token="67109112" Name="label1" />
+<Field Token="67109113" Name="btnCancel" />
+<Field Token="67109114" Name="txtPassword" />
+<Field Token="67109115" Name="chkPassword" />
+<Type Token="33554456" Name="PdfEncrypter.frmProgress" />
+<Method Token="100663513" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663514" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663515" Name="HideForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663516" Name="ShowForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663517" Name="timTime_Tick" Variables="this;sender;e;ts;V_1;" ParamCnt="3" />
+<Method Token="100663518" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663519" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663520" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663521" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109116" Name="Instance" />
+<Field Token="67109117" Name="Secs" />
+<Field Token="67109118" Name="components" />
+<Field Token="67109119" Name="progressBar1" />
+<Field Token="67109120" Name="label1" />
+<Field Token="67109121" Name="lblTime" />
+<Field Token="67109122" Name="btnCancel" />
+<Field Token="67109123" Name="timTime" />
+<Type Token="33554457" Name="PdfEncrypter.frmPromotion" />
+<Method Token="100663522" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663523" Name="picPromotion_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663524" Name="VisitWebpage" Variables="this;" ParamCnt="1" />
+<Method Token="100663525" Name="lnkPromotion_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663526" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663527" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663528" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109124" Name="components" />
+<Field Token="67109125" Name="label1" />
+<Field Token="67109126" Name="lnkPromotion" />
+<Field Token="67109127" Name="picPromotion" />
+<Field Token="67109128" Name="chkVisitWebpage" />
+<Field Token="67109129" Name="chkDoNotShowAgain" />
+<Field Token="67109130" Name="btnOK" />
+<Type Token="33554458" Name="PdfEncrypter.frmSettings" />
+<Method Token="100663529" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663530" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;proc;regval;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663531" Name="frmSettings_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663532" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663533" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663534" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109131" Name="InitialChoice" />
+<Field Token="67109132" Name="components" />
+<Field Token="67109133" Name="btnOK" />
+<Field Token="67109134" Name="btnCancel" />
+<Field Token="67109135" Name="chkAllowSharing" />
+<Type Token="33554459" Name="PdfEncrypter.frmUninstallQuestionnaire" />
+<Method Token="100663535" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663536" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663537" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663538" Name="btnOK_Click" Variables="this;sender;e;buy;like;version;email;opinion;postCgi;data;dataLine;V_8;request;bytes;outputStream;response;responseStream;reader;exp;V_16;" ParamCnt="3" />
+<Method Token="100663539" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663540" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663541" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663542" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109136" Name="OnUninstall" />
+<Field Token="67109137" Name="components" />
+<Field Token="67109138" Name="label1" />
+<Field Token="67109139" Name="label2" />
+<Field Token="67109140" Name="label3" />
+<Field Token="67109141" Name="btnOK" />
+<Field Token="67109142" Name="btnExit" />
+<Field Token="67109143" Name="txtLike" />
+<Field Token="67109144" Name="txtBuy" />
+<Field Token="67109145" Name="label4" />
+<Field Token="67109146" Name="txtEmail" />
+<Field Token="67109147" Name="txtOpinion" />
+<Field Token="67109148" Name="label5" />
+<Type Token="33554460" Name="PdfEncrypter.ImageComboBox" />
+<Method Token="100663543" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663544" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663545" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663546" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109149" Name="imageList" />
+<Type Token="33554461" Name="PdfEncrypter.ComboBoxExItem" />
+<Method Token="100663547" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663548" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663549" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663550" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663551" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663552" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663553" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663554" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109150" Name="_text" />
+<Field Token="67109151" Name="_imageIndex" />
+<Type Token="33554462" Name="PdfEncrypter.MessageHelper" />
+<Method Token="100663555" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663556" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663557" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663558" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663559" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663560" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663561" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663562" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663563" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663564" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663565" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663566" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663567" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Field Token="67109152" Name="WM_USER" />
+<Field Token="67109153" Name="WM_COPYDATA" />
+<Field Token="67109154" Name="HWND_BROADCAST" />
+<Field Token="67109155" Name="WM_ACTIVATEAPP" />
+<Type Token="33554463" Name="PdfEncrypter.Module" />
+<Method Token="100663568" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663569" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663570" Name="SHParseDisplayName" Variables="pszName;pbc;ppidl;sfgaoIn;psfgaoOut;" ParamCnt="5" />
+<Method Token="100663571" Name="SHOpenFolderAndSelectItems" Variables="pidlFolder;cidl;apidl;dwFlags;" ParamCnt="4" />
+<Method Token="100663572" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663573" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663574" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663575" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663576" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663577" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663578" Name="ShowError" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663579" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663580" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663581" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663582" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663583" Name="IsImage" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663584" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663585" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663586" Name="ParseDateTimeFromString" Variables="str;dt;V_1;" ParamCnt="1" />
+<Method Token="100663587" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Method Token="100663588" Name="RemoveQuotes" Variables="args;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Field Token="67109156" Name="ApplicationTitle" />
+<Field Token="67109157" Name="ShortApplicationTitle" />
+<Field Token="67109158" Name="DownloadURL" />
+<Field Token="67109159" Name="HelpURL" />
+<Field Token="67109160" Name="LangURL" />
+<Field Token="67109161" Name="VersionURL" />
+<Field Token="67109162" Name="StoreUrl" />
+<Field Token="67109163" Name="SelectedLanguage" />
+<Field Token="67109164" Name="args" />
+<Field Token="67109165" Name="IsCommandLine" />
+<Field Token="67109166" Name="IsFromWindowsExplorer" />
+<Field Token="67109167" Name="Cmdnewuserpassword" />
+<Field Token="67109168" Name="Cmdnewownerpassword" />
+<Field Token="67109169" Name="Cmdenc128" />
+<Field Token="67109170" Name="Cmdenc40" />
+<Field Token="67109171" Name="CmdDISALLOW_COPYING" />
+<Field Token="67109172" Name="CmdDISALLOW_MODIFYING" />
+<Field Token="67109173" Name="CmdDISALLOW_FORM_FILL" />
+<Field Token="67109174" Name="CmdDISALLOW_SCREEN_READERS" />
+<Field Token="67109175" Name="CmdDISALLOW_HIRES_PRINTING" />
+<Field Token="67109176" Name="CmdDISALLOW_LOWRES_PRINTING" />
+<Field Token="67109177" Name="CmdDISALLOW_DOC_ASSEMBLY" />
+<Field Token="67109178" Name="CmdDISALLOW_ANOTATIONS" />
+<Field Token="67109179" Name="CmdUserPassword" />
+<Field Token="67109180" Name="Cmdauthor" />
+<Field Token="67109181" Name="Cmdcreator" />
+<Field Token="67109182" Name="Cmdkeywords" />
+<Field Token="67109183" Name="Cmdtitle" />
+<Field Token="67109184" Name="Cmdsubject" />
+<Field Token="67109185" Name="CmdcreationDate" />
+<Field Token="67109186" Name="CmdmodificationDate" />
+<Field Token="67109187" Name="CmdOverwritePDF" />
+<Field Token="67109188" Name="CmdKeepBackup" />
+<Field Token="67109189" Name="CmdOutputFile" />
+<Field Token="67109190" Name="CmdLogFile" />
+<Field Token="67109191" Name="CmdImportListFile" />
+<Field Token="67109192" Name="CmdLogFileWriter" />
+<Field Token="67109193" Name="CmdAddSubdirectories" />
+<Field Token="67109194" Name="CmdOutputFolder" />
+<Field Token="67109195" Name="UserDocumentsFolder" />
+<Field Token="67109196" Name="CmdFiles" />
+<Field Token="67109197" Name="SelectedFilepaths" />
+<Field Token="67109198" Name="SelectedOperations" />
+<Field Token="67109199" Name="SelectedParameters" />
+<Field Token="67109200" Name="PresetFile" />
+<Field Token="67109201" Name="ImageFilter" />
+<Field Token="67109202" Name="ImageFilterForSave" />
+<Field Token="67109203" Name="DialogFilesFilter" />
+<Field Token="67109204" Name="ImagePattern" />
+<Field Token="67109205" Name="DoNotOverwriteFiles" />
+<Field Token="67109206" Name="AskBeforeOverwrite" />
+<Field Token="67109207" Name="LeaveSameDateTime" />
+<Field Token="67109208" Name="_Modex64" />
+<Type Token="33554464" Name="PdfEncrypter.GetTitleAndNumberOfPagesResult" />
+<Method Token="100663589" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109209" Name="Title" />
+<Field Token="67109210" Name="NumberOfPages" />
+<Type Token="33554465" Name="PdfEncrypter.NiceLine" />
+<Method Token="100663590" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663591" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663592" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663593" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663594" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663595" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663596" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663597" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663598" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663599" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663600" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663601" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663602" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663603" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663604" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663605" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109211" Name="components" />
+<Field Token="67109212" Name="_Caption" />
+<Field Token="67109213" Name="_CaptionMarginSpace" />
+<Field Token="67109214" Name="_CaptionPadding" />
+<Field Token="67109215" Name="_LineVerticalAlign" />
+<Field Token="67109216" Name="_CaptionOrizontalAlign" />
+<Type Token="33554466" Name="PdfEncrypter.LineVerticalAlign" />
+<Field Token="67109217" Name="value__" />
+<Field Token="67109218" Name="Top" />
+<Field Token="67109219" Name="Middle" />
+<Field Token="67109220" Name="Bottom" />
+<Type Token="33554467" Name="PdfEncrypter.CaptionOrizontalAlign" />
+<Field Token="67109221" Name="value__" />
+<Field Token="67109222" Name="Left" />
+<Field Token="67109223" Name="Center" />
+<Field Token="67109224" Name="Right" />
+<Type Token="33554468" Name="PdfEncrypter.OutputFolderHelper" />
+<Method Token="100663606" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663607" Name="SaveOutputFolder" Variables="folder;lst;lsi;m;cmbc;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;k;V_13;k;V_15;V_16;V_17;V_18;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663608" Name="LoadOutputFolders" Variables="k;V_1;V_2;V_3;V_4;V_5;" ParamCnt="0" />
+<Type Token="33554469" Name="PdfEncrypter.Program" />
+<Method Token="100663609" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663610" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663611" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663612" Name="SetupLocalized" Variables="dirz;k;V_2;k;V_4;" ParamCnt="0" />
+<Method Token="100663613" Name="SetupNSILang" Variables="dirz;sw;k;V_3;" ParamCnt="0" />
+<Method Token="100663614" Name="Main" Variables="args;path;k;V_2;V_3;V_4;f;V_6;V_7;" ParamCnt="1" />
+<Method Token="100663615" Name="InitRegistryLuminati" Variables="proc;V_1;proc2;" ParamCnt="0" />
+<Method Token="100663616" Name="SetLanguage" Variables="lang;setlang;V_2;V_3;fl;V_5;V_6;V_7;ex;V_9;key;key2;V_12;V_13;exr;" ParamCnt="0" />
+<Field Token="67109225" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109226" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554470" Name="PdfEncrypter.RecentFilesHelper" />
+<Method Token="100663617" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663618" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663619" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663620" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663621" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663622" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663623" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663624" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
+<Type Token="33554471" Name="PdfEncrypter.RegistryHelper2" />
+<Method Token="100663625" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663626" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663627" Name="SetKeyValue2" Variables="AppRegKey;keystr;keyvalue;pr;V_1;" ParamCnt="3" />
+<Method Token="100663628" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Type Token="33554472" Name="PdfEncrypter.ShareHelper" />
+<Method Token="100663629" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663630" Name="get_ShareURL" Variables="url;V_1;epos;V_3;" ParamCnt="0" />
+<Method Token="100663631" Name="get_ShareText" Variables="txt;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="ShareFacebook" Variables="" ParamCnt="0" />
+<Method Token="100663633" Name="ShareTwitter" Variables="" ParamCnt="0" />
+<Method Token="100663634" Name="ShareGooglePlus" Variables="" ParamCnt="0" />
+<Method Token="100663635" Name="ShareLinkedIn" Variables="" ParamCnt="0" />
+<Method Token="100663636" Name="ShareEmail" Variables="" ParamCnt="0" />
+<Type Token="33554473" Name="PdfEncrypter.StringDecrypter" />
+<Method Token="100663637" Name=".ctor" Variables="this;Message;Passphrase;" ParamCnt="3" />
+<Method Token="100663638" Name="get_Value" Variables="this;Results;UTF8;HashProvider;TDESKey;TDESAlgorithm;DataToDecrypt;V_6;V_7;Decryptor;" ParamCnt="1" />
+<Field Token="67109227" Name="message" />
+<Field Token="67109228" Name="passphrase" />
+<Type Token="33554474" Name="PdfEncrypter.StringEncrypter" />
+<Method Token="100663639" Name=".ctor" Variables="this;Message;Passphrase;" ParamCnt="3" />
+<Method Token="100663640" Name="get_Value" Variables="this;Results;UTF8;HashProvider;TDESKey;TDESAlgorithm;DataToEncrypt;V_6;V_7;Encryptor;" ParamCnt="1" />
+<Field Token="67109229" Name="message" />
+<Field Token="67109230" Name="passphrase" />
+<Type Token="33554475" Name="PdfEncrypter.ucTextProgressBar" />
+<Method Token="100663641" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663642" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663643" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663644" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663645" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663646" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663647" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109231" Name="lblText" />
+<Field Token="67109232" Name="WmPaint" />
+<Field Token="67109233" Name="components" />
+<Type Token="33554476" Name="PdfEncrypter.UpdateHelper" />
+<Method Token="100663648" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663649" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663650" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663651" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663652" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663653" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663654" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663655" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663656" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663657" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109234" Name="bwCheckVersion" />
+<Type Token="33554477" Name="PdfEncrypter.CheckVersionResult" />
+<Method Token="100663658" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109235" Name="NewVersionReleased" />
+<Field Token="67109236" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109237" Name="OutputMessage" />
+<Type Token="33554478" Name="PdfEncrypter.ResFlags" />
+<Method Token="100663659" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663660" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663661" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663662" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663663" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663664" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663665" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663666" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663667" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663668" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663669" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663670" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663671" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663672" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663673" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663674" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663675" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663676" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663677" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663678" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663679" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663680" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663681" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663682" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663683" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663684" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663685" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663686" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663687" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663688" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663689" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663690" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663691" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663692" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663693" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663694" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663695" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663696" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663697" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663698" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663699" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663700" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109238" Name="resourceMan" />
+<Field Token="67109239" Name="resourceCulture" />
+<Type Token="33554479" Name="PdfEncrypter.ResTranslate" />
+<Method Token="100663701" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663702" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663703" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663704" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663705" Name="get_An_error_occured_while_protecting_PDF_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663706" Name="get_Download" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663707" Name="get_Encrypt_PDF" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663708" Name="get_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663709" Name="get_Error__Could_not_Create_Directory_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663710" Name="get_Error__Could_not_send_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663711" Name="get_Error__Wrong_User_Password_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663712" Name="get_Error_Could_not_change_Language__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663713" Name="get_Error_could_not_parse_Arguments__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663714" Name="get_I_did_find_a_free_application_to_protect_PDF_files__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663715" Name="get_Is_From_Windows_Explorer" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663716" Name="get_Operation_completed_successfully__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663717" Name="get_Operation_completed_with_Errors__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663718" Name="get_Overwrite_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663719" Name="get_Please_add_a_PDF_File_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663720" Name="get_Please_add_only_PDF_Files__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663721" Name="get_Please_add_PDF_Files_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663722" Name="get_Please_enter_a_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663723" Name="get_Please_enter_a_valid_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663724" Name="get_Please_enter_the_correct_User_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663725" Name="get_Please_fill_out_the_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663726" Name="get_Please_insert_a_valid_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663727" Name="get_Please_specify_another_option_as_the_Output_Folder__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663728" Name="get_Same_Folder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663729" Name="get_Subfolder" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663730" Name="get_Subfolder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663731" Name="get_Unspecified_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663732" Name="get_Would_you_like_to_add_also_Subdirectories__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663733" Name="get_You_have_to_set_an_Owner_Password_if_you_do_not_grant_all_permissions__" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109240" Name="resourceMan" />
+<Field Token="67109241" Name="resourceCulture" />
+<Type Token="33554480" Name="PdfEncrypter.TranslateHelper" />
+<Method Token="100663734" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663735" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663736" Name="Translate" Variables="str;V_0;cm;trnstr;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Field Token="67109242" Name="rm" />
+<Type Token="33554481" Name="PdfEncrypter.Properties.Resources" />
+<Method Token="100663737" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663738" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663739" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663740" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663741" Name="get__200px_AGPLv3_Logo_svg" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663742" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663743" Name="get__lock" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663744" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663745" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663746" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663747" Name="get_add2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663748" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663749" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663750" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663751" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663752" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663753" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663754" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663755" Name="get_document_info" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663756" Name="get_document_info1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663757" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663758" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663759" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663760" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663761" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663762" Name="get_folder_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663763" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663764" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663765" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663766" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663767" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663768" Name="get_lock24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663769" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663770" Name="get_onlinepdfapps_com_main_screen_700_373" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663771" Name="get_pdf_encrypter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663772" Name="get_social_twitter_box_white_icon_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663773" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663774" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109243" Name="resourceMan" />
+<Field Token="67109244" Name="resourceCulture" />
+<Type Token="33554482" Name="PdfEncrypter.Properties.Settings" />
+<Method Token="100663775" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663776" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663777" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663778" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663779" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663780" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663781" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663782" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663783" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663784" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663785" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663786" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663787" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663788" Name="get_LastVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663789" Name="set_LastVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663790" Name="get_LanguagesDownloaded" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663791" Name="set_LanguagesDownloaded" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663792" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663793" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663794" Name="get_OutputFolder1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663795" Name="set_OutputFolder1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663796" Name="get_OutputFolder2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663797" Name="set_OutputFolder2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663798" Name="get_OutputFolder3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663799" Name="set_OutputFolder3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663800" Name="get_OutputFolder4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663801" Name="set_OutputFolder4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663802" Name="get_OutputFolder5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663803" Name="set_OutputFolder5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663804" Name="get_OutputFolderIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663805" Name="set_OutputFolderIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663806" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663807" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663808" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663809" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663810" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663811" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663812" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663813" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663814" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663815" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663816" Name="get_KeepFolderStructure" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663817" Name="set_KeepFolderStructure" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663818" Name="get_FirstTimeRun" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663819" Name="set_FirstTimeRun" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663820" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663821" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663822" Name="get_ExploreOutputFolder" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663823" Name="set_ExploreOutputFolder" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663824" Name="get_KeepCreationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663825" Name="set_KeepCreationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663826" Name="get_KeepLastModificationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663827" Name="set_KeepLastModificationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663828" Name="get_ShowMessageOnSucess" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663829" Name="set_ShowMessageOnSucess" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663830" Name="get_UserPassword" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663831" Name="set_UserPassword" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663832" Name="get_OwnerPassword" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663833" Name="set_OwnerPassword" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663834" Name="get_Opt1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663835" Name="set_Opt1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663836" Name="get_Opt2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663837" Name="set_Opt2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663838" Name="get_Opt3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663839" Name="set_Opt3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663840" Name="get_Opt4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663841" Name="set_Opt4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663842" Name="get_Opt5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663843" Name="set_Opt5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663844" Name="get_Opt6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663845" Name="set_Opt6" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663846" Name="get_Opt7" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663847" Name="set_Opt7" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663848" Name="get_Opt8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663849" Name="set_Opt8" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663850" Name="get_ShowPasswords" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663851" Name="set_ShowPasswords" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663852" Name="get_Overwrite" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663853" Name="set_Overwrite" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663854" Name="get_Bits128" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663855" Name="set_Bits128" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663856" Name="get_ShowPromotion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663857" Name="set_ShowPromotion" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109245" Name="defaultInstance" />
+<Type Token="33554483" Name="PdfEncrypter.frmProgress/HideFormDelegate" />
+<Method Token="100663858" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663859" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663860" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663861" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554484" Name="PdfEncrypter.frmProgress/ShowFormDelegate" />
+<Method Token="100663862" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663863" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663864" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663865" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554485" Name="PdfEncrypter.MessageHelper/COPYDATASTRUCT" />
+<Field Token="67109246" Name="dwData" />
+<Field Token="67109247" Name="cbData" />
+<Field Token="67109248" Name="lpData" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663308" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
